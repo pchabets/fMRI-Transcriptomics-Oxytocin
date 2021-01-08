@@ -3,7 +3,7 @@ Differential oxytocin mRNA expression in brain areas affected by intranasal oxyt
 
 Steps to run scripts and reproduce results:
 
-1) download all needed files from our Github page and store them in a local folder
+1) download all needed files from the data folder from this repository and store them in a local folder
 
 2) download all donor microarray data from https://human.brain-map.org/static/download and place in the same local folder. The six donor folders 
 -normalized_microarray_donor9861 

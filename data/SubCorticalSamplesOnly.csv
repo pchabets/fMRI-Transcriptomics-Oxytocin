@@ -1,0 +1,987 @@
+structure_id,slab_num,well_id,slab_type,structure_acronym,structure_name,polygon_id,mri_voxel_x,mri_voxel_y,mri_voxel_z,mni_x,mni_y,mni_z,donor,sample
+4323,11,2985,CX,Cl,"claustrum, right",40517,66,92,63,29.2,17,-2.9,donor9861,donor9861_sample_2
+4323,18,2801,CX,Cl,"claustrum, right",41516,66,81,104,28.2,-22.8,16.8,donor9861,donor9861_sample_3
+4440,18,2273,CX,LGd,"dorsal lateral geniculate nucleus, left",41473,116,94,101,-24.6,-24.6,1.3,donor9861,donor9861_sample_4
+4266,17,2785,CX,CA4,"CA4 field, right",41142,63,104,106,31.1,-31.3,-7.3,donor9861,donor9861_sample_5
+4267,17,2793,CX,DG,"dentate gyrus, right",41141,63,104,107,31.1,-32.3,-7.1,donor9861,donor9861_sample_6
+4251,17,2858,CX,S,"subiculum, left",41212,114,108,100,-22.6,-27.4,-13.8,donor9861,donor9861_sample_10
+4254,17,2850,CX,CA1,"CA1 field, left",41211,124,107,100,-33.2,-27.4,-12.9,donor9861,donor9861_sample_11
+4281,17,2866,CX,TCd,"tail of caudate nucleus, left",41213,124,102,98,-33.1,-23.9,-8,donor9861,donor9861_sample_12
+4450,19,2809,CX,DTA,"anterior group of nuclei, right",67019,84,85,109,9,-29.6,13.2,donor9861,donor9861_sample_13
+4472,19,2817,CX,DTLv,"lateral group of nuclei, right, ventral division",67020,75,86,108,18.5,-28.6,12.1,donor9861,donor9861_sample_14
+4487,19,2825,CX,ILr,"rostral group of intralaminar nuclei, right",73214,84,88,109,9,-30.5,10,donor9861,donor9861_sample_15
+4395,19,2929,CX,DTA,"anterior group of nuclei, left",66981,102,80,102,-9.8,-21.3,16.8,donor9861,donor9861_sample_16
+4400,19,2857,CX,DTM,"medial group of nuclei, left",80127,100,92,105,-7.8,-27.8,4.6,donor9861,donor9861_sample_17
+4417,19,2849,CX,DTLv,"lateral group of nuclei, left, ventral division",66985,112,87,105,-20.5,-26.7,9.7,donor9861,donor9861_sample_18
+4432,19,2865,CX,ILr,"rostral group of intralaminar nuclei, left",80126,104,87,104,-12,-25.4,9.6,donor9861,donor9861_sample_19
+4437,19,2841,CX,ILc,"caudal group of intralaminar nuclei, left",66984,106,94,105,-14.2,-28.5,2.3,donor9861,donor9861_sample_20
+4322,12,2977,CX,Cl,"claustrum, left",36307,121,90,67,-29,12,-1.1,donor9861,donor9861_sample_21
+4455,16,3001,CX,DTM,"medial group of nuclei, right",665541,91,86,93,2,-13.3,8.8,donor9861,donor9861_sample_22
+4472,16,2993,CX,DTLv,"lateral group of nuclei, right, ventral division",665542,87,85,92,6.3,-11.9,9.8,donor9861,donor9861_sample_23
+4512,16,3009,CX,R,"reticular nucleus of thalamus, right",362512,82,84,92,11.6,-11.5,10.9,donor9861,donor9861_sample_24
+4537,16,3050,CX,Pa,"paraventricular nuclei, right of thalamus, right",665540,91,88,93,2,-13.9,6.7,donor9861,donor9861_sample_25
+4314,16,3017,CX,SI,"substantia innominata, right",56068,72,93,94,22,-15.9,1.9,donor9861,donor9861_sample_26
+4519,16,2803,CX,Sb,"subthalamic nucleus, right",39177,73,98,95,20.9,-18.3,-3.2,donor9861,donor9861_sample_27
+9074,16,2811,CX,SNC,"substantia nigra, pars compacta, left",344600,93,104,95,-0.3,-20.5,-10.1,donor9861,donor9861_sample_28
+4417,17,3041,CX,DTLv,"lateral group of nuclei, left, ventral division",87542,105,84,98,-12.9,-18.3,11.6,donor9861,donor9861_sample_29
+4450,17,3033,CX,DTA,"anterior group of nuclei, right",87520,86,80,101,7.2,-19.9,16.9,donor9861,donor9861_sample_30
+4455,17,3057,CX,DTM,"medial group of nuclei, right",692605,90,88,102,2.8,-23.3,8.5,donor9861,donor9861_sample_31
+4472,17,3049,CX,DTLv,"lateral group of nuclei, right, ventral division",87525,82,89,102,11.3,-23.4,7.6,donor9861,donor9861_sample_32
+4506,17,3065,CX,R,"reticular nucleus of thalamus, left",87541,110,83,97,-18.1,-17.1,12.4,donor9861,donor9861_sample_33
+4507,17,3018,CX,ZI,"zona incerta, left",690726,100,92,99,-7.7,-21.5,3.4,donor9861,donor9861_sample_34
+4512,17,2978,CX,R,"reticular nucleus of thalamus, right",87521,76,85,101,17.7,-21,11.8,donor9861,donor9861_sample_35
+4513,17,3026,CX,ZI,"zona incerta, right",87536,82,96,100,11.3,-23.2,-0.3,donor9861,donor9861_sample_36
+4518,17,3090,CX,Sb,"subthalamic nucleus, left",87528,107,95,99,-15.1,-22.5,0,donor9861,donor9861_sample_37
+9005,17,3025,CX,CGMB,"central gray substance of midbrain, right",668917,93,98,100,-0.3,-24.1,-2.7,donor9861,donor9861_sample_38
+9054,17,3034,CX,RN,"red nucleus, left",87527,101,100,100,-8.8,-24.8,-5,donor9861,donor9861_sample_39
+9057,17,2986,CX,RN,"red nucleus, right",668919,86,100,101,7,-25.5,-4.5,donor9861,donor9861_sample_40
+9074,17,3002,CX,SNC,"substantia nigra, pars compacta, left",87529,109,99,99,-17.2,-23.7,-4.3,donor9861,donor9861_sample_41
+9075,17,3010,CX,SNR,"substantia nigra, pars reticulata, left",87530,111,99,99,-19.3,-23.8,-4.3,donor9861,donor9861_sample_42
+4329,14,2786,CX,ATZ,"amygdalohippocampal transition zone, left",73464,114,101,83,-22.1,-7.6,-9.6,donor9861,donor9861_sample_44
+4342,14,2794,CX,BLA,"basolateral nucleus, left",81221,116,107,83,-24.2,-9.4,-16.1,donor9861,donor9861_sample_45
+4351,14,2810,CX,BMA,"basomedial nucleus, left",81220,117,102,83,-25.3,-8,-10.8,donor9861,donor9861_sample_46
+4379,14,2873,CX,LA,"lateral nucleus, left",73461,122,109,83,-30.6,-10.1,-18.4,donor9861,donor9861_sample_47
+4379,14,2802,CX,LA,"lateral nucleus, left",82143,121,109,83,-29.5,-10.1,-18.3,donor9861,donor9861_sample_48
+4307,15,2842,CX,SI,"substantia innominata, left",41716,116,97,87,-24.3,-10.8,-4.6,donor9861,donor9861_sample_49
+4360,15,2826,CX,CeA,"central nucleus, left",40336,118,100,87,-26.4,-11.7,-7.9,donor9861,donor9861_sample_50
+4288,18,1028,CX,Pu,"putamen, left",39517,122,87,100,-30.9,-21.7,8.5,donor9861,donor9861_sample_60
+4288,14,977,CX,Pu,"putamen, left",39235,117,85,83,-25.1,-3.2,7.4,donor9861,donor9861_sample_103
+4299,16,966,CX,GPi,"globus pallidus, internal segment, right",714243,73,92,93,21,-14.6,2.8,donor9861,donor9861_sample_105
+9222,18,1037,CX,cc,corpus callosum,81146,100,71,95,-7.4,-11.4,25.1,donor9861,donor9861_sample_114
+9242,18,1053,CX,cgb,"cingulum bundle, right",81149,79,61,96,14.8,-9.1,36.4,donor9861,donor9861_sample_115
+4323,14,2209,CX,Cl,"claustrum, right",38881,64,86,83,30.8,-2.2,7.4,donor9861,donor9861_sample_128
+4322,14,2233,CX,Cl,"claustrum, left",39255,124,87,82,-32.5,-2.9,4.9,donor9861,donor9861_sample_129
+4296,16,917,CX,GPi,"globus pallidus, internal segment, left",51234,111,90,92,-19.1,-13.9,3.9,donor9861,donor9861_sample_131
+4323,17,2257,CX,Cl,"claustrum, right",40314,63,87,97,31.5,-17.1,9.1,donor9861,donor9861_sample_133
+4286,16,893,CX,BCd,"body of caudate nucleus, right",248616,80,74,91,13.8,-7.6,21.5,donor9861,donor9861_sample_138
+4288,16,941,CX,Pu,"putamen, left",40074,119,88,91,-27.5,-12.5,5.7,donor9861,donor9861_sample_139
+4323,15,2241,CX,Cl,"claustrum, right",40536,61,92,86,33.9,-6.9,1.7,donor9861,donor9861_sample_145
+4322,17,2265,CX,Cl,"claustrum, left",41536,125,89,94,-33.9,-16.1,5.1,donor9861,donor9861_sample_146
+4322,18,2289,CX,Cl,"claustrum, left",41476,124,80,99,-32.9,-18.7,15.7,donor9861,donor9861_sample_147
+4322,15,2249,CX,Cl,"claustrum, left",40556,125,91,85,-33.7,-7.2,1.2,donor9861,donor9861_sample_148
+4286,16,885,CX,BCd,"body of caudate nucleus, right",248615,79,74,91,14.9,-7.5,21.5,donor9861,donor9861_sample_166
+4289,16,901,CX,Pu,"putamen, right",248612,72,84,93,22.1,-12.3,11.3,donor9861,donor9861_sample_167
+4298,16,909,CX,GPe,"globus pallidus, external segment, right",248613,73,88,92,21.1,-12.4,6.9,donor9861,donor9861_sample_168
+4282,16,949,CX,BCd,"body of caudate nucleus, left",40075,110,73,88,-17.8,-4.9,21.4,donor9861,donor9861_sample_175
+4288,16,933,CX,Pu,"putamen, left",40074,118,88,91,-26.4,-12.5,5.7,donor9861,donor9861_sample_176
+4295,16,925,CX,GPe,"globus pallidus, external segment, left",51235,114,87,91,-22.2,-12.1,6.9,donor9861,donor9861_sample_178
+4284,12,549,CX,HCd,"head of caudate nucleus, right",81050,83,87,66,11.2,14.9,2.6,donor9861,donor9861_sample_220
+4323,12,2689,CX,Cl,"claustrum, right",38505,71,96,67,23.8,11.6,-6.5,donor9861,donor9861_sample_306
+4258,17,2491,CX,DG,"dentate gyrus, left",41207,116,105,100,-24.7,-26.6,-10.6,donor9861,donor9861_sample_307
+4450,16,2658,CX,DTA,"anterior group of nuclei, right",665539,89,79,91,4.3,-9.2,16,donor9861,donor9861_sample_308
+4534,16,2682,CX,Pa,"paraventricular nuclei, left of thalamus, left",665538,91,89,93,2,-14.2,5.6,donor9861,donor9861_sample_309
+4307,14,2522,CX,SI,"substantia innominata, left",64824,101,96,83,-8.3,-5.9,-4,donor9861,donor9861_sample_310
+4260,16,2667,CX,S,"subiculum, right",39174,68,109,98,26,-24.5,-14.3,donor9861,donor9861_sample_311
+4263,16,2611,CX,CA1,"CA1 field, right",64946,60,108,97,34.5,-22.9,-13.3,donor9861,donor9861_sample_312
+4264,16,2604,CX,CA2,"CA2 field, right",55429,65,105,95,29.3,-20.1,-10.6,donor9861,donor9861_sample_313
+4265,16,2612,CX,CA3,"CA3 field, right",55610,64,108,97,30.3,-23,-13.4,donor9861,donor9861_sample_314
+4266,16,2619,CX,CA4,"CA4 field, right",39211,62,107,96,32.4,-21.6,-12.5,donor9861,donor9861_sample_315
+4267,16,2627,CX,DG,"dentate gyrus, right",39172,61,107,96,33.5,-21.6,-12.4,donor9861,donor9861_sample_316
+4285,16,2596,CX,TCd,"tail of caudate nucleus, right",56066,57,106,98,37.7,-23.3,-10.9,donor9861,donor9861_sample_317
+13005,16,2635,CX,LHM,"lateral hypothalamic area, mammillary region, left",240495,90,100,94,3,-18.3,-5.9,donor9861,donor9861_sample_318
+13006,16,2643,CX,LHM,"lateral hypothalamic area, mammillary region, right",240497,79,100,96,14.5,-20.1,-5.3,donor9861,donor9861_sample_319
+4679,16,2651,CX,PHA,"posterior hypothalamic area, left",240671,87,94,94,6.2,-16.5,0.5,donor9861,donor9861_sample_320
+4693,16,2659,CX,PHA,"posterior hypothalamic area, right",240496,82,95,94,11.5,-16.7,-0.4,donor9861,donor9861_sample_321
+9077,16,2683,CX,SNC,"substantia nigra, pars compacta, right",39267,71,103,97,22.9,-21.8,-8.2,donor9861,donor9861_sample_322
+4395,17,2685,CX,DTA,"anterior group of nuclei, left",87539,100,82,98,-7.6,-17.7,13.9,donor9861,donor9861_sample_323
+4400,17,2598,CX,DTM,"medial group of nuclei, left",87540,95,88,100,-2.4,-21.3,8,donor9861,donor9861_sample_324
+4487,17,2684,CX,ILr,"rostral group of intralaminar nuclei, right",87522,87,88,103,6,-24.3,8.7,donor9861,donor9861_sample_325
+4519,17,2637,CX,Sb,"subthalamic nucleus, right",87624,78,95,101,15.5,-23.9,1,donor9861,donor9861_sample_326
+4534,17,2597,CX,Pa,"paraventricular nuclei, left of thalamus, left",420079,93,91,100,-0.3,-22.1,4.8,donor9861,donor9861_sample_327
+4537,17,2606,CX,Pa,"paraventricular nuclei, right of thalamus, right",420080,93,94,100,-0.3,-23,1.6,donor9861,donor9861_sample_328
+9004,17,2636,CX,CGMB,"central gray substance of midbrain, left",668916,95,97,100,-2.5,-23.8,-1.7,donor9861,donor9861_sample_329
+9067,17,2622,CX,VTA,"ventral tegmental area, left",87534,95,101,101,-2.5,-26,-5.7,donor9861,donor9861_sample_330
+9068,17,2661,CX,VTA,"ventral tegmental area, right",87535,92,100,101,0.7,-25.7,-4.6,donor9861,donor9861_sample_331
+4395,18,2593,CX,DTA,"anterior group of nuclei, left",346197,100,80,99,-7.6,-18.1,16.2,donor9861,donor9861_sample_332
+4400,18,2649,CX,DTM,"medial group of nuclei, left",346199,100,88,102,-7.7,-23.5,8.3,donor9861,donor9861_sample_333
+4417,18,2633,CX,DTLv,"lateral group of nuclei, left, ventral division",346201,109,88,101,-17.2,-22.7,7.9,donor9861,donor9861_sample_334
+4432,18,2634,CX,ILr,"rostral group of intralaminar nuclei, left",346198,104,86,101,-11.9,-22,10.1,donor9861,donor9861_sample_335
+4450,18,2601,CX,DTA,"anterior group of nuclei, right",346196,89,82,104,3.9,-23.7,15.3,donor9861,donor9861_sample_336
+4455,18,2657,CX,DTM,"medial group of nuclei, right",246998,90,92,104,2.8,-26.5,4.6,donor9861,donor9861_sample_337
+4472,18,2641,CX,DTLv,"lateral group of nuclei, right, ventral division",346194,81,89,106,12.2,-27.5,8.4,donor9861,donor9861_sample_338
+4487,18,2642,CX,ILr,"rostral group of intralaminar nuclei, right",346195,86,87,106,7,-27.1,10.4,donor9861,donor9861_sample_339
+4492,18,2609,CX,ILc,"caudal group of intralaminar nuclei, right",346205,85,96,104,8,-27.5,0.4,donor9861,donor9861_sample_340
+4506,18,2618,CX,R,"reticular nucleus of thalamus, left",690755,112,82,101,-20.3,-21.1,14.2,donor9861,donor9861_sample_341
+4512,18,2626,CX,R,"reticular nucleus of thalamus, right",346193,78,82,106,15.5,-25.5,15.9,donor9861,donor9861_sample_342
+4534,18,2681,CX,Pa,"paraventricular nuclei, left of thalamus, left",690753,94,95,103,-1.5,-26.4,1.1,donor9861,donor9861_sample_343
+4537,18,2594,CX,Pa,"paraventricular nuclei, right of thalamus, right",692725,94,96,103,-1.5,-26.7,0,donor9861,donor9861_sample_344
+9004,18,2617,CX,CGMB,"central gray substance of midbrain, left",690751,94,99,103,-1.5,-27.5,-3.2,donor9861,donor9861_sample_345
+9005,18,2625,CX,CGMB,"central gray substance of midbrain, right",690752,91,99,103,1.7,-27.5,-3.1,donor9861,donor9861_sample_346
+9031,18,2665,CX,3,"oculomotor nuclear complex, left",690749,93,102,103,-0.5,-28.3,-6.4,donor9861,donor9861_sample_347
+9039,18,2673,CX,3,"oculomotor nuclear complex, right",690666,92,102,103,0.6,-28.3,-6.4,donor9861,donor9861_sample_348
+9054,18,2610,CX,RN,"red nucleus, left",345251,98,99,103,-5.7,-27.6,-3.3,donor9861,donor9861_sample_349
+9074,18,2650,CX,SNC,"substantia nigra, pars compacta, left",344708,106,101,102,-14.2,-27.3,-5.8,donor9861,donor9861_sample_350
+4367,15,2834,CX,COMA,"cortico-medial group, left",73235,113,99,88,-21.2,-12.3,-6.5,donor9861,donor9861_sample_361
+4264,17,2321,CX,CA2,"CA2 field, right",41144,61,102,105,33.3,-29.6,-5.3,donor9861,donor9861_sample_384
+4254,15,2474,CX,CA1,"CA1 field, left",41707,120,109,88,-28.6,-15.3,-17.3,donor9861,donor9861_sample_391
+4284,14,843,CX,HCd,"head of caudate nucleus, right",39080,79,79,81,15.1,1.5,14.2,donor9861,donor9861_sample_424
+4288,14,788,CX,Pu,"putamen, left",39237,116,85,83,-24.1,-3.2,7.4,donor9861,donor9861_sample_425
+4289,14,827,CX,Pu,"putamen, right",38875,69,85,84,25.5,-3.1,8.6,donor9861,donor9861_sample_453
+4284,14,835,CX,HCd,"head of caudate nucleus, right",39085,78,79,81,16.1,1.6,14.2,donor9861,donor9861_sample_454
+4288,14,780,CX,Pu,"putamen, left",39235,118,85,83,-26.2,-3.2,7.4,donor9861,donor9861_sample_457
+4280,13,1225,CX,HCd,"head of caudate nucleus, left",73304,104,83,71,-11.1,10.2,7.5,donor9861,donor9861_sample_485
+4280,14,851,CX,HCd,"head of caudate nucleus, left",247257,109,78,81,-16.6,1.1,14.7,donor9861,donor9861_sample_489
+4282,17,1187,CX,BCd,"body of caudate nucleus, left",41675,110,73,98,-18.1,-15.4,23.3,donor9861,donor9861_sample_492
+4295,17,1179,CX,GPe,"globus pallidus, external segment, left",41674,116,90,97,-24.5,-19.3,4.8,donor9861,donor9861_sample_493
+4299,15,1266,CX,GPi,"globus pallidus, internal segment, right",38542,81,89,87,12.7,-7.6,4.6,donor9861,donor9861_sample_494
+4417,20,2553,CX,DTLv,"lateral group of nuclei, left, ventral division",64577,116,90,108,-24.8,-30.8,7,donor9861,donor9861_sample_495
+4444,19,2556,CX,MG,"medial geniculate complex, left",39969,114,99,104,-22.6,-29.1,-3.4,donor9861,donor9861_sample_496
+4298,17,1155,CX,GPe,"globus pallidus, external segment, right",863432,70,92,99,24,-20.8,4,donor9861,donor9861_sample_498
+4329,15,2450,CX,ATZ,"amygdalohippocampal transition zone, left",73236,111,104,88,-19.1,-13.6,-11.8,donor9861,donor9861_sample_499
+9241,18,1029,CX,cgb,"cingulum bundle, left",81148,109,58,90,-16.7,-2.7,37.8,donor9861,donor9861_sample_501
+9222,18,1045,CX,cc,corpus callosum,81146,99,71,95,-6.3,-11.4,25.1,donor9861,donor9861_sample_502
+4289,13,1217,CX,Pu,"putamen, right",41668,74,90,70,20.6,10.1,0.4,donor9861,donor9861_sample_503
+4251,18,2443,CX,S,"subiculum, left",65158,116,110,102,-24.8,-30.1,-15.6,donor9861,donor9861_sample_510
+4254,18,2427,CX,CA1,"CA1 field, left",65159,125,106,102,-34.3,-29.2,-11.5,donor9861,donor9861_sample_511
+4255,18,2469,CX,CA2,"CA2 field, left",65162,124,103,102,-33.2,-28.4,-8.3,donor9861,donor9861_sample_512
+4256,18,2477,CX,CA3,"CA3 field, left",65161,123,103,102,-32.1,-28.3,-8.3,donor9861,donor9861_sample_513
+4257,18,2435,CX,CA4,"CA4 field, left",65160,122,104,102,-31.1,-28.6,-9.3,donor9861,donor9861_sample_514
+4258,18,2485,CX,DG,"dentate gyrus, left",40629,122,105,102,-31.1,-28.9,-10.4,donor9861,donor9861_sample_515
+4281,18,2451,CX,TCd,"tail of caudate nucleus, left",65163,127,103,102,-36.3,-28.4,-8.3,donor9861,donor9861_sample_516
+4251,20,2585,CX,S,"subiculum, left",56094,110,103,110,-18.6,-36.4,-6.4,donor9861,donor9861_sample_517
+4254,20,2505,CX,CA1,"CA1 field, left",56093,122,104,109,-31.3,-35.9,-7.9,donor9861,donor9861_sample_518
+4255,20,2513,CX,CA2,"CA2 field, left",56092,123,101,108,-32.3,-34.1,-4.9,donor9861,donor9861_sample_519
+4256,20,2521,CX,CA3,"CA3 field, left",56091,121,101,109,-30.2,-35.1,-4.7,donor9861,donor9861_sample_520
+4257,20,2529,CX,CA4,"CA4 field, left",56090,120,103,109,-29.1,-35.6,-6.8,donor9861,donor9861_sample_521
+4258,20,2537,CX,DG,"dentate gyrus, left",56089,119,103,109,-28.1,-35.6,-6.8,donor9861,donor9861_sample_522
+4395,20,2497,CX,DTA,"anterior group of nuclei, left",64568,103,83,107,-11,-27.4,14.5,donor9861,donor9861_sample_523
+4400,20,2561,CX,DTM,"medial group of nuclei, left",64562,102,90,108,-10,-30.4,7.2,donor9861,donor9861_sample_524
+4409,20,2545,CX,DTLd,"lateral group of nuclei, left, dorsal division",64570,114,92,108,-22.7,-31.3,4.9,donor9861,donor9861_sample_525
+4428,20,2569,CX,DTP,"posterior group of nuclei, left",81133,115,99,108,-23.8,-33.3,-2.6,donor9861,donor9861_sample_526
+4432,20,2577,CX,ILr,"rostral group of intralaminar nuclei, left",64569,104,89,108,-12.1,-30.2,8.3,donor9861,donor9861_sample_527
+9115,20,2498,CX,SC,"superior colliculus, left",247813,101,101,109,-9.1,-34.5,-4.3,donor9861,donor9861_sample_528
+4251,16,2517,CX,S,"subiculum, left",82199,116,113,93,-24.6,-21.5,-20.6,donor9861,donor9861_sample_529
+4254,16,2580,CX,CA1,"CA1 field, left",82198,123,108,93,-31.9,-20.3,-15.4,donor9861,donor9861_sample_530
+4255,16,2581,CX,CA2,"CA2 field, left",82193,119,104,93,-27.7,-19.1,-11,donor9861,donor9861_sample_531
+4256,16,2588,CX,CA3,"CA3 field, left",82196,120,107,93,-28.7,-20,-14.2,donor9861,donor9861_sample_532
+4257,16,2501,CX,CA4,"CA4 field, left",82195,122,106,93,-30.8,-19.7,-13.2,donor9861,donor9861_sample_533
+4258,16,2510,CX,DG,"dentate gyrus, left",81178,121,106,93,-29.8,-19.7,-13.2,donor9861,donor9861_sample_534
+4307,16,2525,CX,SI,"substantia innominata, left",82192,116,98,92,-24.4,-16.3,-4.7,donor9861,donor9861_sample_535
+4360,16,2589,CX,CeA,"central nucleus, left",64846,117,99,93,-25.5,-17.6,-5.6,donor9861,donor9861_sample_536
+4367,16,2502,CX,COMA,"cortico-medial group, left",64848,115,99,93,-23.4,-17.6,-5.6,donor9861,donor9861_sample_537
+4679,16,2509,CX,PHA,"posterior hypothalamic area, left",67291,97,94,93,-4.4,-15.7,0.1,donor9861,donor9861_sample_538
+4301,14,2546,CX,SptN,"septal nuclei, left",64823,96,91,83,-3,-4.4,1.4,donor9861,donor9861_sample_539
+4304,14,2554,CX,SptN,"septal nuclei, right",247258,91,91,83,2.3,-4.3,1.5,donor9861,donor9861_sample_540
+4314,14,2530,CX,SI,"substantia innominata, right",64825,81,96,83,12.8,-5.4,-3.6,donor9861,donor9861_sample_541
+4542,14,2506,CX,PrOR,"preoptic region, left",394223,96,100,83,-3.1,-6.9,-8.2,donor9861,donor9861_sample_542
+4556,14,2514,CX,PrOR,"preoptic region, right",394224,90,100,83,3.3,-6.8,-8.1,donor9861,donor9861_sample_543
+4593,14,2538,CX,SO,"supraoptic nucleus, left",394222,102,101,83,-9.4,-7.3,-9.4,donor9861,donor9861_sample_544
+4624,14,2533,CX,SO,"supraoptic nucleus, right",394221,86,100,83,7.5,-6.7,-8,donor9861,donor9861_sample_545
+4251,19,2572,CX,S,"subiculum, left",39972,110,104,104,-18.5,-30.4,-8.7,donor9861,donor9861_sample_546
+4255,19,2541,CX,CA2,"CA2 field, left",39939,124,105,104,-33.2,-31,-10,donor9861,donor9861_sample_547
+4256,19,2549,CX,CA3,"CA3 field, left",39938,123,104,104,-32.2,-30.7,-8.9,donor9861,donor9861_sample_548
+4257,19,2557,CX,CA4,"CA4 field, left",39937,122,104,104,-31.1,-30.7,-8.9,donor9861,donor9861_sample_549
+4258,19,2532,CX,DG,"dentate gyrus, left",39936,121,103,103,-30,-29.3,-8,donor9861,donor9861_sample_550
+4417,19,2540,CX,DTLv,"lateral group of nuclei, left, ventral division",39970,112,96,104,-20.5,-28.2,-0.2,donor9861,donor9861_sample_551
+4440,19,2548,CX,LGd,"dorsal lateral geniculate nucleus, left",39968,119,96,104,-27.9,-28.4,-0.3,donor9861,donor9861_sample_552
+9004,19,2524,CX,CGMB,"central gray substance of midbrain, left",39971,100,102,105,-7.9,-30.6,-6.1,donor9861,donor9861_sample_553
+9079,19,2564,CX,PTec,pretectal region,87394,104,100,105,-12.1,-30.2,-4.1,donor9861,donor9861_sample_554
+4260,19,2587,CX,S,"subiculum, right",39548,67,105,107,26.9,-32.7,-8.3,donor9861,donor9861_sample_555
+4263,19,2562,CX,CA1,"CA1 field, right",39547,62,105,108,32.1,-33.6,-8,donor9861,donor9861_sample_556
+4264,19,2570,CX,CA2,"CA2 field, right",39478,62,103,109,32.1,-34.1,-5.6,donor9861,donor9861_sample_557
+4265,19,2578,CX,CA3,"CA3 field, right",39477,63,103,108,31.1,-33.1,-5.9,donor9861,donor9861_sample_558
+4266,19,2586,CX,CA4,"CA4 field, right",39475,64,104,108,30,-33.4,-6.9,donor9861,donor9861_sample_559
+4267,19,2515,CX,DG,"dentate gyrus, right",39439,63,104,108,31.1,-33.4,-6.9,donor9861,donor9861_sample_560
+4285,19,2500,CX,TCd,"tail of caudate nucleus, right",67111,63,100,108,31.1,-32.3,-2.6,donor9861,donor9861_sample_561
+4455,19,2539,CX,DTM,"medial group of nuclei, right",67122,90,92,108,2.7,-30.7,5.4,donor9861,donor9861_sample_562
+4464,19,2523,CX,DTLd,"lateral group of nuclei, right, dorsal division",67124,73,97,108,20.6,-31.7,0.4,donor9861,donor9861_sample_563
+4472,19,2531,CX,DTLv,"lateral group of nuclei, right, ventral division",67123,73,91,108,20.6,-30,6.8,donor9861,donor9861_sample_564
+4483,19,2516,CX,DTP,"posterior group of nuclei, right",67120,86,99,107,6.8,-31.5,-2.2,donor9861,donor9861_sample_565
+4487,19,2571,CX,ILr,"rostral group of intralaminar nuclei, right",67125,85,93,108,7.9,-30.8,4.4,donor9861,donor9861_sample_566
+4492,19,2563,CX,ILc,"caudal group of intralaminar nuclei, right",67170,87,94,108,5.8,-31.2,3.3,donor9861,donor9861_sample_567
+4528,19,2555,CX,Hm,"medial habenular nucleus, right",75014,95,96,106,-2.6,-29.8,0.6,donor9861,donor9861_sample_568
+4529,19,2547,CX,Hl,"lateral habenular nucleus, right",87442,94,97,106,-1.6,-30.1,-0.5,donor9861,donor9861_sample_569
+9004,19,2499,CX,CGMB,"central gray substance of midbrain, left",75016,96,102,106,-3.7,-31.6,-5.8,donor9861,donor9861_sample_570
+9005,19,2507,CX,CGMB,"central gray substance of midbrain, right",67190,96,103,106,-3.7,-31.8,-6.9,donor9861,donor9861_sample_571
+9079,19,2579,CX,PTec,pretectal region,87432,89,100,107,3.7,-31.9,-3.4,donor9861,donor9861_sample_572
+4472,19,2508,CX,DTLv,"lateral group of nuclei, right, ventral division",75476,72,91,108,21.7,-30,6.8,donor9861,donor9861_sample_573
+4251,15,2411,CX,S,"subiculum, left",41706,113,112,88,-21.3,-16,-20.4,donor9861,donor9861_sample_574
+4342,15,2458,CX,BLA,"basolateral nucleus, left",69037,116,104,88,-24.4,-13.8,-11.9,donor9861,donor9861_sample_575
+4351,15,2466,CX,BMA,"basomedial nucleus, left",69078,115,102,88,-23.3,-13.2,-9.8,donor9861,donor9861_sample_576
+4379,15,2403,CX,LA,"lateral nucleus, left",81015,119,105,88,-27.5,-14.1,-13,donor9861,donor9861_sample_577
+4379,15,2442,CX,LA,"lateral nucleus, left",81121,118,105,88,-26.5,-14.1,-13,donor9861,donor9861_sample_578
+4255,17,2467,CX,CA2,"CA2 field, left",41209,121,104,100,-30,-26.5,-9.7,donor9861,donor9861_sample_581
+4256,17,2475,CX,CA3,"CA3 field, left",41210,119,104,100,-27.8,-26.4,-9.6,donor9861,donor9861_sample_582
+4257,17,2483,CX,CA4,"CA4 field, left",41208,118,105,100,-26.8,-26.7,-10.7,donor9861,donor9861_sample_583
+4289,12,533,CX,Pu,"putamen, right",81049,76,92,66,18.6,13.7,-2.6,donor9861,donor9861_sample_629
+4280,12,502,CX,HCd,"head of caudate nucleus, left",39165,107,78,66,-14.1,16.8,11.8,donor9861,donor9861_sample_651
+4288,12,486,CX,Pu,"putamen, left",39166,114,89,66,-21.5,13.5,-0.1,donor9861,donor9861_sample_652
+4288,12,494,CX,Pu,"putamen, left",39166,113,89,66,-20.5,13.6,-0.1,donor9861,donor9861_sample_653
+4289,12,541,CX,Pu,"putamen, right",81045,75,92,66,19.6,13.7,-2.5,donor9861,donor9861_sample_656
+4284,12,557,CX,HCd,"head of caudate nucleus, right",81046,82,87,66,12.3,14.9,2.7,donor9861,donor9861_sample_660
+4280,12,510,CX,HCd,"head of caudate nucleus, left",278279,106,78,66,-13,16.8,11.8,donor9861,donor9861_sample_661
+4264,20,2322,CX,CA2,"CA2 field, right",38729,64,100,111,30,-35.4,-2.1,donor9861,donor9861_sample_774
+4323,13,2362,CX,Cl,"claustrum, right",32180,64,88,70,31.2,10.9,2.7,donor9861,donor9861_sample_783
+4323,13,2378,CX,Cl,"claustrum, right",82148,65,107,74,29.8,1.3,-16.8,donor9861,donor9861_sample_784
+4322,13,2386,CX,Cl,"claustrum, left",73224,121,110,73,-29.3,0.1,-21.4,donor9861,donor9861_sample_785
+4260,18,2355,CX,S,"subiculum, right",64893,73,105,107,20.5,-32.9,-8.4,donor9861,donor9861_sample_786
+4265,18,2315,CX,CA3,"CA3 field, right",64891,63,103,107,31.1,-32.1,-6,donor9861,donor9861_sample_787
+4266,18,2323,CX,CA4,"CA4 field, right",40614,64,105,107,30,-32.7,-8.2,donor9861,donor9861_sample_788
+4267,18,2331,CX,DG,"dentate gyrus, right",40613,65,105,107,29,-32.7,-8.2,donor9861,donor9861_sample_789
+4285,18,2363,CX,TCd,"tail of caudate nucleus, right",64895,60,102,104,34.4,-28.6,-5.5,donor9861,donor9861_sample_790
+4267,20,2346,CX,DG,"dentate gyrus, right",38726,67,101,111,26.8,-35.8,-3.2,donor9861,donor9861_sample_791
+4464,20,2385,CX,DTLd,"lateral group of nuclei, right, dorsal division",67276,81,92,111,12.1,-33.6,6.1,donor9861,donor9861_sample_792
+4263,20,2314,CX,CA1,"CA1 field, right",38730,63,104,111,31,-36.5,-6.3,donor9861,donor9861_sample_793
+4263,18,2394,CX,CA1,"CA1 field, right",64892,67,112,106,26.8,-33.7,-15.9,donor9861,donor9861_sample_794
+4323,16,2371,CX,Cl,"claustrum, right",39655,65,89,93,29.5,-13.5,6.1,donor9861,donor9861_sample_795
+4472,18,2361,CX,DTLv,"lateral group of nuclei, right, ventral division",41647,76,93,104,17.5,-26.4,3.8,donor9861,donor9861_sample_796
+4260,17,2305,CX,S,"subiculum, right",41146,70,105,105,23.8,-30.7,-8.7,donor9861,donor9861_sample_797
+4263,17,2313,CX,CA1,"CA1 field, right",41145,61,107,106,33.2,-32.1,-10.5,donor9861,donor9861_sample_798
+4265,17,2329,CX,CA3,"CA3 field, right",41143,64,103,106,30.1,-31,-6.3,donor9861,donor9861_sample_799
+4285,17,2353,CX,TCd,"tail of caudate nucleus, right",41149,60,101,105,34.3,-29.3,-4.2,donor9861,donor9861_sample_800
+4495,18,2339,CX,LGd,"dorsal lateral geniculate nucleus, right",40615,73,101,103,20.7,-27.6,-4.9,donor9861,donor9861_sample_801
+4322,13,2370,CX,Cl,"claustrum, left",33431,122,94,69,-30.1,8.8,-5.1,donor9861,donor9861_sample_802
+4322,16,2379,CX,Cl,"claustrum, left",40076,123,87,91,-31.7,-12.3,6.7,donor9861,donor9861_sample_803
+4260,20,2393,CX,S,"subiculum, right",38731,73,103,111,20.4,-36.5,-5.5,donor9861,donor9861_sample_804
+4263,20,2306,CX,CA1,"CA1 field, right",38730,62,104,111,32,-36.5,-6.3,donor9861,donor9861_sample_805
+4265,20,2330,CX,CA3,"CA3 field, right",38728,66,100,111,27.9,-35.5,-2.1,donor9861,donor9861_sample_806
+4266,20,2338,CX,CA4,"CA4 field, right",38727,66,101,111,27.8,-35.8,-3.2,donor9861,donor9861_sample_807
+4288,13,1233,CX,Pu,"putamen, left",73305,113,91,69,-20.6,9.9,-1.7,donor9861,donor9861_sample_880
+4291,13,1241,CX,Acb,"nucleus accumbens, left",73303,100,96,70,-6.9,7.7,-6.5,donor9861,donor9861_sample_881
+4280,11,1193,CX,HCd,"head of caudate nucleus, left",41619,107,87,62,-14,18.5,1.4,donor9861,donor9861_sample_889
+4288,11,1201,CX,Pu,"putamen, left",41620,115,93,62,-22.5,16.6,-5.2,donor9861,donor9861_sample_890
+4284,11,1177,CX,HCd,"head of caudate nucleus, right",41607,80,85,62,14.5,19.7,4.1,donor9861,donor9861_sample_891
+4289,11,1185,CX,Pu,"putamen, right",41606,75,91,61,19.8,19.2,-2.4,donor9861,donor9861_sample_892
+4284,13,1209,CX,HCd,"head of caudate nucleus, right",41669,80,78,71,14.3,12.3,13.3,donor9861,donor9861_sample_920
+4282,19,1234,CX,BCd,"body of caudate nucleus, left",73376,110,74,104,-18.2,-21.9,23.4,donor9861,donor9861_sample_921
+4286,19,1226,CX,BCd,"body of caudate nucleus, right",73256,76,77,108,17.5,-26.1,21.7,donor9861,donor9861_sample_922
+4292,13,1154,CX,Acb,"nucleus accumbens, right",81073,83,96,70,11,8.2,-6.2,donor9861,donor9861_sample_925
+4284,15,1162,CX,HCd,"head of caudate nucleus, right",41739,80,74,87,13.9,-3.4,20.7,donor9861,donor9861_sample_928
+4289,15,1170,CX,Pu,"putamen, right",41738,68,87,86,26.5,-5.7,6.9,donor9861,donor9861_sample_929
+4298,15,1178,CX,GPe,"globus pallidus, external segment, right",41737,74,88,87,20.1,-7.2,5.9,donor9861,donor9861_sample_930
+4288,15,1218,CX,Pu,"putamen, left",49142,113,86,85,-21,-5.5,6.8,donor9861,donor9861_sample_931
+4288,17,1171,CX,Pu,"putamen, left",41673,120,87,95,-28.6,-16.4,7.5,donor9861,donor9861_sample_932
+4280,15,1210,CX,HCd,"head of caudate nucleus, left",38539,98,84,86,-5.1,-5.6,9.4,donor9861,donor9861_sample_933
+4295,15,1202,CX,GPe,"globus pallidus, external segment, left",38537,103,92,85,-10.5,-6.9,0.6,donor9861,donor9861_sample_934
+4296,15,1194,CX,GPi,"globus pallidus, internal segment, left",38538,104,95,85,-11.5,-7.8,-2.6,donor9861,donor9861_sample_935
+4299,15,1186,CX,GPi,"globus pallidus, internal segment, right",38542,80,89,87,13.8,-7.6,4.7,donor9861,donor9861_sample_936
+4286,17,1163,CX,BCd,"body of caudate nucleus, right",692918,78,73,98,15.7,-14.6,24,donor9861,donor9861_sample_937
+4289,17,1242,CX,Pu,"putamen, right",41677,67,88,98,27.2,-18.5,8.2,donor9861,donor9861_sample_940
+4322,10,5705,CX,Cl,"claustrum, left",978619,120,91,71,-29.2,5.8,-2.6,donor10021,donor10021_sample_1
+4291,10,5713,CX,Acb,"nucleus accumbens, left",998603,103,96,71,-10.1,5.9,-8.4,donor10021,donor10021_sample_2
+4292,10,5721,CX,Acb,"nucleus accumbens, right",998604,86,95,69,8.9,8.5,-7.4,donor10021,donor10021_sample_3
+4292,11,5729,CX,Acb,"nucleus accumbens, right",999200,87,95,76,7.9,0.8,-6.7,donor10021,donor10021_sample_4
+4314,11,5737,CX,SI,"substantia innominata, right",992030,79,97,76,16.9,0.9,-9.1,donor10021,donor10021_sample_5
+4323,11,5745,CX,Cl,"claustrum, right",992127,61,86,78,37,-0.5,4.1,donor10021,donor10021_sample_6
+4298,11,5753,CX,GPe,"globus pallidus, external segment, right",991186,82,89,75,13.4,2.2,0.2,donor10021,donor10021_sample_7
+4382,11,5666,CX,LA,"lateral nucleus, right",992123,72,108,75,24.8,1.7,-22.1,donor10021,donor10021_sample_8
+4335,11,5674,CX,ATZ,"amygdalohippocampal transition zone, right",992126,77,102,76,19.2,0.7,-14.9,donor10021,donor10021_sample_9
+4346,11,5682,CX,BLA,"basolateral nucleus, right",992121,78,108,75,18.1,1.6,-22.1,donor10021,donor10021_sample_10
+4355,11,5690,CX,BMA,"basomedial nucleus, right",992122,76,106,75,20.3,1.7,-19.8,donor10021,donor10021_sample_11
+4307,11,5698,CX,SI,"substantia innominata, left",990119,102,97,75,-8.9,1.5,-9.2,donor10021,donor10021_sample_12
+4301,11,5706,CX,SptN,"septal nuclei, left",990118,93,85,74,1,3.3,4.8,donor10021,donor10021_sample_13
+4304,11,5714,CX,SptN,"septal nuclei, right",1000027,92,83,73,2.1,4.5,7.1,donor10021,donor10021_sample_14
+4295,11,5730,CX,GPe,"globus pallidus, external segment, left",991153,105,91,74,-12.3,2.8,-2.2,donor10021,donor10021_sample_15
+4322,11,5738,CX,Cl,"claustrum, left",987617,124,88,78,-33.6,-1.8,1.7,donor10021,donor10021_sample_16
+4323,13,5667,CX,Cl,"claustrum, right",997156,67,84,94,30.4,-18,8,donor10021,donor10021_sample_17
+4322,13,5675,CX,Cl,"claustrum, left",997493,122,88,92,-31.2,-17,3,donor10021,donor10021_sample_18
+4301,12,5683,CX,SptN,"septal nuclei, left",996326,95,74,82,-1.2,-5.1,18.6,donor10021,donor10021_sample_19
+4263,17,5707,CX,CA1,"CA1 field, right",1001646,77,89,116,19.5,-42.4,4.3,donor10021,donor10021_sample_20
+4264,17,5715,CX,CA2,"CA2 field, right",1001641,75,86,115,21.7,-41.2,7.7,donor10021,donor10021_sample_21
+4265,17,5723,CX,CA3,"CA3 field, right",1001496,76,86,115,20.6,-41.2,7.7,donor10021,donor10021_sample_22
+4266,17,5731,CX,CA4,"CA4 field, right",1001475,76,87,115,20.6,-41.2,6.6,donor10021,donor10021_sample_23
+4267,17,5739,CX,DG,"dentate gyrus, right",998739,75,87,115,21.8,-41.2,6.6,donor10021,donor10021_sample_24
+4286,17,5747,CX,BCd,"body of caudate nucleus, right",1001647,75,80,113,21.7,-38.7,14.6,donor10021,donor10021_sample_25
+4292,9,5665,CX,Acb,"nucleus accumbens, right",979628,83,92,58,12.1,20.6,-5,donor10021,donor10021_sample_26
+4323,9,5673,CX,Cl,"claustrum, right",978486,71,90,59,25.6,19.8,-2.5,donor10021,donor10021_sample_27
+4322,9,5689,CX,Cl,"claustrum, left",977015,116,94,57,-24.9,21,-7.5,donor10021,donor10021_sample_28
+4291,9,5681,CX,Acb,"nucleus accumbens, left",978309,105,94,58,-12.5,20.1,-7.4,donor10021,donor10021_sample_29
+4323,10,5697,CX,Cl,"claustrum, right",978365,68,94,69,29.1,8.8,-6.2,donor10021,donor10021_sample_30
+4251,17,5755,CX,S,"subiculum, left",1002563,108,85,113,-15.3,-39.6,8.7,donor10021,donor10021_sample_31
+4254,17,5668,CX,CA1,"CA1 field, left",1002584,111,82,114,-18.6,-40.6,12.3,donor10021,donor10021_sample_32
+4255,17,5676,CX,CA2,"CA2 field, left",1002583,111,79,112,-18.7,-38.3,15.6,donor10021,donor10021_sample_33
+4256,17,5684,CX,CA3,"CA3 field, left",1002649,108,77,110,-15.4,-36,17.8,donor10021,donor10021_sample_34
+4257,17,5692,CX,CA4,"CA4 field, left",1002282,107,77,110,-14.3,-36,17.8,donor10021,donor10021_sample_35
+4258,17,5700,CX,DG,"dentate gyrus, left",998938,109,77,110,-16.5,-36,17.8,donor10021,donor10021_sample_36
+4282,17,5708,CX,BCd,"body of caudate nucleus, left",1002812,116,80,116,-24.2,-42.8,14.8,donor10021,donor10021_sample_37
+4289,10,4557,CX,Pu,"putamen, right",978378,74,87,69,22.3,9,2,donor10021,donor10021_sample_38
+4284,10,4549,CX,HCd,"head of caudate nucleus, right",978418,81,77,69,14.4,9.3,13.8,donor10021,donor10021_sample_80
+4280,9,4518,CX,HCd,"head of caudate nucleus, left",976995,105,86,59,-12.6,19.4,2.2,donor10021,donor10021_sample_101
+4288,9,4526,CX,Pu,"putamen, left",976993,113,89,58,-21.5,20.2,-1.5,donor10021,donor10021_sample_102
+4289,9,4605,CX,Pu,"putamen, right",991070,76,89,58,19.9,20.9,-1.4,donor10021,donor10021_sample_106
+4395,16,7461,CX,DTA,"anterior group of nuclei, left",1046125,101,75,99,-7.7,-23.8,19.1,donor10021,donor10021_sample_126
+4280,10,4937,CX,HCd,"head of caudate nucleus, left",998631,102,80,71,-9.1,6.6,10.4,donor10021,donor10021_sample_297
+4288,10,4945,CX,Pu,"putamen, left",998632,110,90,71,-18,6,-1.4,donor10021,donor10021_sample_298
+4289,13,4922,CX,Pu,"putamen, right",998104,72,83,93,24.8,-17,9.1,donor10021,donor10021_sample_300
+4298,13,4930,CX,GPe,"globus pallidus, external segment, right",999888,74,87,93,22.6,-17.2,4.4,donor10021,donor10021_sample_301
+4288,13,4938,CX,Pu,"putamen, left",998109,117,84,93,-25.6,-17.9,7.9,donor10021,donor10021_sample_302
+4295,13,4946,CX,GPe,"globus pallidus, external segment, left",998110,113,85,93,-21.1,-17.8,6.7,donor10021,donor10021_sample_303
+4295,13,4954,CX,GPe,"globus pallidus, external segment, left",999945,112,85,93,-20,-17.8,6.7,donor10021,donor10021_sample_304
+4282,13,4962,CX,BCd,"body of caudate nucleus, left",998200,104,69,88,-11.3,-11.6,25,donor10021,donor10021_sample_305
+4286,13,4970,CX,BCd,"body of caudate nucleus, right",998375,79,71,86,16.8,-9,22.5,donor10021,donor10021_sample_306
+4284,11,4953,CX,HCd,"head of caudate nucleus, right",1000256,85,79,73,9.9,4.7,11.8,donor10021,donor10021_sample_307
+4289,11,4961,CX,Pu,"putamen, right",1000257,71,86,76,25.7,1.5,3.9,donor10021,donor10021_sample_308
+4280,11,4969,CX,HCd,"head of caudate nucleus, left",990123,104,78,73,-11.4,4.4,12.9,donor10021,donor10021_sample_312
+4288,11,4977,CX,Pu,"putamen, left",990124,114,88,75,-22.4,1.7,1.4,donor10021,donor10021_sample_313
+4291,11,4985,CX,Acb,"nucleus accumbens, left",990122,100,92,75,-6.7,1.8,-3.3,donor10021,donor10021_sample_314
+4329,11,4898,CX,ATZ,"amygdalohippocampal transition zone, left",991129,107,103,75,-14.5,1.2,-16.3,donor10021,donor10021_sample_315
+4288,11,4906,CX,Pu,"putamen, left",987618,120,84,78,-29.2,-1.6,6.4,donor10021,donor10021_sample_317
+4286,14,5225,CX,BCd,"body of caudate nucleus, right",1020986,74,65,87,22.3,-9.8,29.7,donor10021,donor10021_sample_364
+4289,14,5233,CX,Pu,"putamen, right",1012768,67,86,93,30.4,-17,5.6,donor10021,donor10021_sample_365
+4417,14,5266,CX,DTLv,"lateral group of nuclei, left, ventral division",1032704,102,81,95,-8.8,-19.7,11.6,donor10021,donor10021_sample_372
+4472,14,5250,CX,DTLv,"lateral group of nuclei, right, ventral division",1029317,78,84,89,18,-12.8,7.5,donor10021,donor10021_sample_373
+4472,14,5258,CX,DTLv,"lateral group of nuclei, right, ventral division",1029329,77,84,89,19.2,-12.8,7.5,donor10021,donor10021_sample_374
+4288,14,5257,CX,Pu,"putamen, left",1015792,121,88,99,-30,-24.7,3.7,donor10021,donor10021_sample_384
+4624,12,7374,CX,SO,"supraoptic nucleus, right",1003203,86,92,86,9.1,-10,-2.2,donor10021,donor10021_sample_458
+9054,14,5899,CX,RN,"red nucleus, left",1027922,102,94,101,-8.6,-26.7,-3.1,donor10021,donor10021_sample_510
+4400,14,5891,CX,DTM,"medial group of nuclei, left",1032328,95,80,94,-1,-18.4,12.7,donor10021,donor10021_sample_511
+4518,14,5875,CX,Sb,"subthalamic nucleus, left",1027923,107,91,100,-14.3,-25.6,0.3,donor10021,donor10021_sample_512
+4506,14,5859,CX,R,"reticular nucleus of thalamus, left",1027909,103,73,91,-10.1,-15,20.6,donor10021,donor10021_sample_513
+4432,14,5946,CX,ILr,"rostral group of intralaminar nuclei, left",1027907,97,83,95,-3.2,-19.6,9.3,donor10021,donor10021_sample_514
+4395,14,5930,CX,DTA,"anterior group of nuclei, left",1027817,96,75,91,-2.2,-14.9,18.3,donor10021,donor10021_sample_515
+4280,14,5922,CX,HCd,"head of caudate nucleus, left",1027943,101,72,90,-7.8,-13.8,21.7,donor10021,donor10021_sample_516
+4492,14,5914,CX,ILc,"caudal group of intralaminar nuclei, right",1026792,83,92,90,12.5,-14.3,-1.8,donor10021,donor10021_sample_517
+9057,14,5906,CX,RN,"red nucleus, right",1024745,81,96,91,14.8,-15.5,-6.4,donor10021,donor10021_sample_518
+4450,14,5898,CX,DTA,"anterior group of nuclei, right",1029381,83,75,85,12.3,-8.2,17.7,donor10021,donor10021_sample_519
+9078,14,5890,CX,SNR,"substantia nigra, pars reticulata, right",1023179,77,101,93,19.4,-17.8,-12.1,donor10021,donor10021_sample_520
+4512,14,5858,CX,R,"reticular nucleus of thalamus, right",1023214,73,93,92,23.8,-16.3,-2.8,donor10021,donor10021_sample_521
+4487,14,5945,CX,ILr,"rostral group of intralaminar nuclei, right",1024741,84,85,88,11.3,-11.8,6.2,donor10021,donor10021_sample_522
+4450,14,5929,CX,DTA,"anterior group of nuclei, right",1006552,82,75,85,13.4,-8.1,17.7,donor10021,donor10021_sample_523
+4342,13,5913,CX,BLA,"basolateral nucleus, left",1025857,119,98,92,-27.7,-17.4,-8.7,donor10021,donor10021_sample_524
+4258,13,5905,CX,DG,"dentate gyrus, left",1027911,119,104,92,-27.7,-17.6,-15.8,donor10021,donor10021_sample_525
+4257,13,5897,CX,CA4,"CA4 field, left",1029991,118,104,92,-26.6,-17.6,-15.8,donor10021,donor10021_sample_526
+4255,13,5889,CX,CA2,"CA2 field, left",1027904,117,100,92,-25.5,-17.4,-11.1,donor10021,donor10021_sample_527
+4254,13,5881,CX,CA1,"CA1 field, left",1027902,122,106,91,-31,-16.7,-18.2,donor10021,donor10021_sample_528
+4251,13,5873,CX,S,"subiculum, left",1027901,114,109,91,-22,-16.6,-21.8,donor10021,donor10021_sample_529
+4440,15,5844,CX,LGd,"dorsal lateral geniculate nucleus, left",1013101,120,93,107,-28.7,-33.6,-1.4,donor10021,donor10021_sample_530
+4281,15,5836,CX,TCd,"tail of caudate nucleus, left",1013102,127,95,108,-36.5,-34.9,-3.6,donor10021,donor10021_sample_531
+4258,15,5828,CX,DG,"dentate gyrus, left",1013074,117,97,108,-25.3,-34.7,-6,donor10021,donor10021_sample_532
+4257,15,5820,CX,CA4,"CA4 field, left",1013076,116,97,108,-24.2,-34.7,-6,donor10021,donor10021_sample_533
+4256,15,5812,CX,CA3,"CA3 field, left",1013075,118,97,108,-26.4,-34.8,-6,donor10021,donor10021_sample_534
+4254,15,5796,CX,CA1,"CA1 field, left",1013078,119,99,108,-27.5,-34.9,-8.3,donor10021,donor10021_sample_535
+4251,15,5788,CX,S,"subiculum, left",1013079,111,98,108,-18.6,-34.7,-7.1,donor10021,donor10021_sample_536
+4483,15,5865,CX,DTP,"posterior group of nuclei, right",1021056,74,93,103,22.8,-28.3,-1.7,donor10021,donor10021_sample_537
+4495,15,5780,CX,LGd,"dorsal lateral geniculate nucleus, right",1025432,72,95,104,25.1,-29.5,-3.9,donor10021,donor10021_sample_538
+4263,15,5772,CX,CA1,"CA1 field, right",1025433,73,100,105,24,-30.8,-9.7,donor10021,donor10021_sample_539
+9078,15,5764,CX,SNR,"substantia nigra, pars reticulata, right",1022195,84,95,104,11.6,-29.7,-4,donor10021,donor10021_sample_540
+9077,15,5851,CX,SNC,"substantia nigra, pars compacta, right",1022351,85,95,104,10.5,-29.7,-4,donor10021,donor10021_sample_541
+9057,15,5843,CX,RN,"red nucleus, right",1022103,87,91,102,8.2,-27.4,0.5,donor10021,donor10021_sample_542
+4495,15,5827,CX,LGd,"dorsal lateral geniculate nucleus, right",1011841,71,95,104,26.2,-29.4,-3.9,donor10021,donor10021_sample_543
+4285,15,5819,CX,TCd,"tail of caudate nucleus, right",1011835,62,99,105,36.3,-30.5,-8.5,donor10021,donor10021_sample_544
+4267,15,5811,CX,DG,"dentate gyrus, right",1011787,75,97,105,21.7,-30.7,-6.2,donor10021,donor10021_sample_545
+4266,15,5803,CX,CA4,"CA4 field, right",1011834,74,98,105,22.9,-30.7,-7.4,donor10021,donor10021_sample_546
+4265,15,5795,CX,CA3,"CA3 field, right",1011789,72,98,105,25.1,-30.7,-7.4,donor10021,donor10021_sample_547
+4264,15,5857,CX,CA2,"CA2 field, right",1011790,69,98,105,28.5,-30.6,-7.4,donor10021,donor10021_sample_548
+4263,15,5787,CX,CA1,"CA1 field, right",1011791,74,100,105,22.9,-30.8,-9.7,donor10021,donor10021_sample_549
+4260,15,5779,CX,S,"subiculum, right",1011792,81,99,105,15,-30.9,-8.6,donor10021,donor10021_sample_550
+4379,12,5771,CX,LA,"lateral nucleus, left",1004330,117,107,86,-25.5,-11.1,-19.9,donor10021,donor10021_sample_551
+4367,12,5763,CX,COMA,"cortico-medial group, left",1004329,106,102,86,-13.2,-10.7,-14,donor10021,donor10021_sample_552
+4351,12,5850,CX,BMA,"basomedial nucleus, left",1004328,110,103,86,-17.7,-10.9,-15.2,donor10021,donor10021_sample_553
+4295,14,5826,CX,GPe,"globus pallidus, external segment, left",1020997,119,90,99,-27.7,-24.7,1.4,donor10021,donor10021_sample_554
+4323,14,5818,CX,Cl,"claustrum, right",1012531,65,84,94,32.7,-18,8,donor10021,donor10021_sample_555
+4299,14,5810,CX,GPi,"globus pallidus, internal segment, right",1020982,71,90,92,26,-16.1,0.8,donor10021,donor10021_sample_556
+4298,14,5802,CX,GPe,"globus pallidus, external segment, right",1020987,69,91,93,28.2,-17.2,-0.3,donor10021,donor10021_sample_557
+4258,14,5786,CX,DG,"dentate gyrus, left",1007812,119,98,102,-27.6,-28.3,-7.7,donor10021,donor10021_sample_558
+4254,14,5849,CX,CA1,"CA1 field, left",1007815,122,99,102,-31,-28.4,-8.9,donor10021,donor10021_sample_559
+4251,14,5841,CX,S,"subiculum, left",1007816,114,99,103,-22,-29.3,-8.8,donor10021,donor10021_sample_560
+4285,14,5833,CX,TCd,"tail of caudate nucleus, right",1009753,62,104,94,36.2,-18.7,-15.5,donor10021,donor10021_sample_561
+4267,14,5825,CX,DG,"dentate gyrus, right",1009274,69,106,94,28.4,-18.9,-17.9,donor10021,donor10021_sample_562
+4266,14,5817,CX,CA4,"CA4 field, right",1009275,68,106,94,29.5,-18.9,-17.9,donor10021,donor10021_sample_563
+4265,14,5809,CX,CA3,"CA3 field, right",1009273,67,106,94,30.6,-18.9,-17.9,donor10021,donor10021_sample_564
+4264,14,5801,CX,CA2,"CA2 field, right",1009276,65,105,94,32.9,-18.8,-16.7,donor10021,donor10021_sample_565
+4263,14,5793,CX,CA1,"CA1 field, right",1009277,65,107,94,32.9,-18.9,-19,donor10021,donor10021_sample_566
+4260,14,5785,CX,S,"subiculum, right",1009278,73,108,94,23.9,-19.1,-20.2,donor10021,donor10021_sample_567
+4322,12,5769,CX,Cl,"claustrum, left",994827,122,90,91,-31.2,-16,0.6,donor10021,donor10021_sample_568
+4284,10,5089,CX,HCd,"head of caudate nucleus, right",978418,80,77,69,15.5,9.3,13.8,donor10021,donor10021_sample_569
+4288,11,4914,CX,Pu,"putamen, left",992170,119,84,78,-28.1,-1.5,6.4,donor10021,donor10021_sample_575
+4288,12,5121,CX,Pu,"putamen, left",994822,115,83,90,-23.4,-14.5,8.7,donor10021,donor10021_sample_597
+4295,12,5129,CX,GPe,"globus pallidus, external segment, left",994820,109,87,87,-16.7,-11.3,3.7,donor10021,donor10021_sample_598
+4296,12,5137,CX,GPi,"globus pallidus, internal segment, left",994815,106,89,86,-13.3,-10.2,1.3,donor10021,donor10021_sample_599
+4322,14,5834,CX,Cl,"claustrum, left",1015767,122,84,98,-31.2,-23.4,8.3,donor10021,donor10021_sample_646
+4342,12,5842,CX,BLA,"basolateral nucleus, left",1004527,112,105,86,-19.9,-11,-17.5,donor10021,donor10021_sample_647
+4267,13,7065,CX,DG,"dentate gyrus, right",1025587,71,106,91,26.1,-15.7,-18.2,donor10021,donor10021_sample_648
+4513,15,5835,CX,ZI,"zona incerta, right",1021042,82,93,103,13.8,-28.5,-1.7,donor10021,donor10021_sample_649
+4351,13,5921,CX,BMA,"basomedial nucleus, left",1025854,117,96,93,-25.5,-18.3,-6.3,donor10021,donor10021_sample_650
+4455,14,5937,CX,DTM,"medial group of nuclei, right",1024740,85,82,87,10.1,-10.6,9.7,donor10021,donor10021_sample_651
+4519,14,5874,CX,Sb,"subthalamic nucleus, right",1006537,76,98,92,20.4,-16.6,-8.7,donor10021,donor10021_sample_652
+4400,14,5938,CX,DTM,"medial group of nuclei, left",1027906,94,80,94,0.1,-18.4,12.7,donor10021,donor10021_sample_653
+4265,16,7376,CX,CA3,"CA3 field, right",1032337,80,99,108,16.2,-34.1,-8.3,donor10021,donor10021_sample_730
+4266,16,7384,CX,CA4,"CA4 field, right",1032338,81,100,108,15.1,-34.2,-9.4,donor10021,donor10021_sample_731
+4285,16,7305,CX,TCd,"tail of caudate nucleus, right",1042435,62,96,109,36.3,-34.8,-4.6,donor10021,donor10021_sample_732
+4286,16,7313,CX,BCd,"body of caudate nucleus, right",1042479,76,76,101,20.4,-25.5,18.1,donor10021,donor10021_sample_733
+4644,12,7335,CX,ARH,"arcuate nucleus of the hypothalamus, left",1036733,99,98,85,-5.4,-9.4,-9.4,donor10021,donor10021_sample_734
+4659,12,7343,CX,ARH,"arcuate nucleus of the hypothalamus, right",1036734,89,98,89,5.8,-13.5,-9,donor10021,donor10021_sample_735
+4256,16,7421,CX,CA3,"CA3 field, left",1025259,116,95,111,-24.2,-37.9,-3.3,donor10021,donor10021_sample_736
+4417,16,7477,CX,DTLv,"lateral group of nuclei, left, ventral division",1047902,109,76,102,-16.6,-27.2,18.2,donor10021,donor10021_sample_737
+4335,12,7366,CX,ATZ,"amygdalohippocampal transition zone, right",1009684,85,103,89,10.4,-13.7,-14.9,donor10021,donor10021_sample_738
+4573,12,7382,CX,PVH,"paraventricular nucleus of the hypothalamus, left",1036730,95,89,84,-1,-7.8,1.1,donor10021,donor10021_sample_739
+4604,12,7390,CX,PVH,"paraventricular nucleus of the hypothalamus, right",1036736,92,88,83,2.3,-6.7,2.2,donor10021,donor10021_sample_740
+4596,12,7303,CX,LHA,"lateral hypothalamic area, anterior region, left",1036731,99,92,85,-5.5,-9.1,-2.3,donor10021,donor10021_sample_741
+4627,12,7311,CX,LHA,"lateral hypothalamic area, anterior region, right",1036737,89,90,85,5.7,-8.9,0,donor10021,donor10021_sample_742
+4598,12,7319,CX,AHA,"anterior hypothalamic area, left",1045386,98,93,85,-4.3,-9.1,-3.5,donor10021,donor10021_sample_743
+4629,12,7327,CX,AHA,"anterior hypothalamic area, right",1045385,91,92,87,3.5,-11.2,-2.1,donor10021,donor10021_sample_744
+4637,12,7359,CX,VMH,"ventromedial hypothalamic nucleus, left",1036732,99,96,85,-5.4,-9.3,-7,donor10021,donor10021_sample_745
+4652,12,7367,CX,VMH,"ventromedial hypothalamic nucleus, right",1036735,90,95,89,4.7,-13.4,-5.4,donor10021,donor10021_sample_746
+4382,12,7334,CX,LA,"lateral nucleus, right",1009486,69,110,86,28.3,-10.4,-23.4,donor10021,donor10021_sample_747
+4542,12,7342,CX,PrOR,"preoptic region, left",1036729,96,87,84,-2.2,-7.8,3.5,donor10021,donor10021_sample_748
+4556,12,7350,CX,PrOR,"preoptic region, right",1009485,90,87,82,4.5,-5.5,3.3,donor10021,donor10021_sample_749
+4593,12,7358,CX,SO,"supraoptic nucleus, left",1009711,102,96,85,-8.8,-9.3,-7,donor10021,donor10021_sample_750
+4464,16,7501,CX,DTLd,"lateral group of nuclei, right, dorsal division",1042460,76,88,105,20.5,-30.3,4.4,donor10021,donor10021_sample_751
+4260,16,7352,CX,S,"subiculum, right",1028034,81,103,109,15.1,-35.4,-12.9,donor10021,donor10021_sample_752
+4263,16,7360,CX,CA1,"CA1 field, right",1032341,77,101,109,19.6,-35.2,-10.5,donor10021,donor10021_sample_753
+4264,16,7368,CX,CA2,"CA2 field, right",1032306,76,98,108,20.7,-34,-7.1,donor10021,donor10021_sample_754
+4506,16,7398,CX,R,"reticular nucleus of thalamus, left",1026445,114,79,106,-22.1,-31.8,15,donor10021,donor10021_sample_755
+4286,15,7301,CX,BCd,"body of caudate nucleus, right",1033339,75,73,96,21.4,-19.9,21.1,donor10021,donor10021_sample_758
+4450,15,7309,CX,DTA,"anterior group of nuclei, right",1033338,87,75,94,7.9,-18,18.6,donor10021,donor10021_sample_759
+4455,15,7317,CX,DTM,"medial group of nuclei, right",1033336,87,82,97,8,-21.6,10.6,donor10021,donor10021_sample_760
+4487,15,7325,CX,ILr,"rostral group of intralaminar nuclei, right",1033337,82,78,96,13.6,-20.2,15.3,donor10021,donor10021_sample_761
+4492,15,7333,CX,ILc,"caudal group of intralaminar nuclei, right",1033335,84,87,100,11.5,-25,5.1,donor10021,donor10021_sample_762
+4512,15,7341,CX,R,"reticular nucleus of thalamus, right",1033389,73,83,99,23.8,-23.5,9.7,donor10021,donor10021_sample_763
+4455,15,7349,CX,DTM,"medial group of nuclei, right",1036746,86,82,97,9.2,-21.6,10.6,donor10021,donor10021_sample_764
+4282,15,7375,CX,BCd,"body of caudate nucleus, left",1035181,114,64,98,-22.4,-22.5,31.9,donor10021,donor10021_sample_765
+4395,15,7383,CX,DTA,"anterior group of nuclei, left",1035188,100,72,95,-6.7,-19.3,22.2,donor10021,donor10021_sample_766
+4400,15,7391,CX,DTM,"medial group of nuclei, left",1035187,103,81,100,-9.9,-25.1,12.1,donor10021,donor10021_sample_767
+4432,15,7304,CX,ILr,"rostral group of intralaminar nuclei, left",1035185,103,72,96,-10,-20.4,22.3,donor10021,donor10021_sample_768
+4437,15,7312,CX,ILc,"caudal group of intralaminar nuclei, left",1035186,108,83,103,-15.4,-28.6,10,donor10021,donor10021_sample_769
+4506,15,7224,CX,R,"reticular nucleus of thalamus, left",1035167,115,76,103,-23.3,-28.4,18.3,donor10021,donor10021_sample_770
+4507,15,7232,CX,ZI,"zona incerta, left",1044284,113,91,107,-20.9,-33.3,1,donor10021,donor10021_sample_771
+4400,15,7344,CX,DTM,"medial group of nuclei, left",1036869,102,81,100,-8.7,-25.1,12.1,donor10021,donor10021_sample_772
+4291,12,7357,CX,Acb,"nucleus accumbens, left",1041560,99,88,85,-5.5,-9,2.4,donor10021,donor10021_sample_773
+4301,12,7373,CX,SptN,"septal nuclei, left",1041581,93,79,83,1.1,-6.3,12.8,donor10021,donor10021_sample_774
+4304,12,7381,CX,SptN,"septal nuclei, right",1041582,89,80,81,5.6,-4.1,11.4,donor10021,donor10021_sample_775
+4307,12,7389,CX,SI,"substantia innominata, left",1003200,95,80,83,-1.1,-6.4,11.6,donor10021,donor10021_sample_776
+4314,12,7302,CX,SI,"substantia innominata, right",1003201,86,81,82,9,-5.2,10.3,donor10021,donor10021_sample_777
+4346,12,7310,CX,BLA,"basolateral nucleus, right",1009487,74,108,87,22.7,-11.5,-20.9,donor10021,donor10021_sample_778
+4355,12,7318,CX,BMA,"basomedial nucleus, right",1009489,78,105,88,18.2,-12.5,-17.3,donor10021,donor10021_sample_779
+4371,12,7326,CX,COMA,"cortico-medial group, right",1009685,80,100,88,15.9,-12.3,-11.4,donor10021,donor10021_sample_780
+4254,16,7405,CX,CA1,"CA1 field, left",1025261,116,98,112,-24.1,-39.1,-6.7,donor10021,donor10021_sample_781
+4255,16,7413,CX,CA2,"CA2 field, left",1025260,118,95,112,-26.4,-39.1,-3.2,donor10021,donor10021_sample_782
+4257,16,7429,CX,CA4,"CA4 field, left",1025284,115,96,111,-23,-37.9,-4.5,donor10021,donor10021_sample_783
+4258,16,7437,CX,DG,"dentate gyrus, left",1025285,114,96,111,-21.9,-37.9,-4.5,donor10021,donor10021_sample_784
+4281,16,7445,CX,TCd,"tail of caudate nucleus, left",1026442,124,92,113,-33.1,-40.1,0.4,donor10021,donor10021_sample_785
+4450,16,7321,CX,DTA,"anterior group of nuclei, right",1027161,86,79,101,9.2,-25.8,14.6,donor10021,donor10021_sample_786
+4472,16,7329,CX,DTLv,"lateral group of nuclei, right, ventral division",1034202,68,92,107,29.5,-32.5,-0.1,donor10021,donor10021_sample_787
+4483,16,7337,CX,DTP,"posterior group of nuclei, right",1034283,80,91,105,16.1,-30.5,0.9,donor10021,donor10021_sample_788
+4487,16,7345,CX,ILr,"rostral group of intralaminar nuclei, right",1046076,86,84,103,9.2,-28.2,8.9,donor10021,donor10021_sample_789
+4495,16,7353,CX,LGd,"dorsal lateral geniculate nucleus, right",1044958,77,95,107,19.5,-32.8,-3.6,donor10021,donor10021_sample_790
+4499,16,7361,CX,MG,"medial geniculate complex, right",1044974,84,95,106,11.6,-31.9,-3.8,donor10021,donor10021_sample_791
+4512,16,7369,CX,R,"reticular nucleus of thalamus, right",1028593,69,86,106,28.4,-31.2,6.9,donor10021,donor10021_sample_792
+4499,16,7377,CX,MG,"medial geniculate complex, right",1046083,83,95,106,12.8,-31.8,-3.8,donor10021,donor10021_sample_793
+4251,16,7397,CX,S,"subiculum, left",1025262,111,98,110,-18.5,-36.9,-6.9,donor10021,donor10021_sample_794
+4282,16,7453,CX,BCd,"body of caudate nucleus, left",1026444,111,71,102,-18.9,-27.1,24,donor10021,donor10021_sample_795
+4409,16,7469,CX,DTLd,"lateral group of nuclei, left, dorsal division",1047901,112,87,107,-19.8,-33.2,5.7,donor10021,donor10021_sample_796
+4432,16,7485,CX,ILr,"rostral group of intralaminar nuclei, left",1047900,105,81,102,-12.1,-27.3,12.3,donor10021,donor10021_sample_797
+4289,12,5050,CX,Pu,"putamen, right",995068,68,83,84,29.2,-7.1,8.2,donor10021,donor10021_sample_831
+4298,12,5058,CX,GPe,"globus pallidus, external segment, right",995067,73,85,84,23.6,-7.3,5.8,donor10021,donor10021_sample_832
+4282,12,5002,CX,BCd,"body of caudate nucleus, left",995477,101,72,81,-8,-4,20.8,donor10021,donor10021_sample_839
+4286,12,5010,CX,BCd,"body of caudate nucleus, right",995474,78,73,83,17.9,-5.8,19.9,donor10021,donor10021_sample_840
+9222,12,5018,CX,cc,corpus callosum,995484,87,68,81,7.7,-3.6,25.5,donor10021,donor10021_sample_841
+4472,14,7121,CX,DTLv,"lateral group of nuclei, right, ventral division",1029329,79,84,89,16.9,-12.8,7.5,donor10021,donor10021_sample_848
+4286,13,7129,CX,BCd,"body of caudate nucleus, right",1035533,81,73,88,14.6,-11.3,20.3,donor10021,donor10021_sample_849
+4296,13,7137,CX,GPi,"globus pallidus, internal segment, left",1035534,110,86,93,-17.8,-17.8,5.5,donor10021,donor10021_sample_850
+4472,15,7145,CX,DTLv,"lateral group of nuclei, right, ventral division",1034173,77,84,99,19.3,-23.7,8.5,donor10021,donor10021_sample_851
+4472,15,7153,CX,DTLv,"lateral group of nuclei, right, ventral division",1036477,76,84,99,20.4,-23.6,8.5,donor10021,donor10021_sample_852
+4417,15,7161,CX,DTLv,"lateral group of nuclei, left, ventral division",1035172,111,77,102,-18.8,-27.3,17,donor10021,donor10021_sample_853
+4298,12,7177,CX,GPe,"globus pallidus, external segment, right",1036720,78,87,84,18,-7.4,3.5,donor10021,donor10021_sample_855
+4464,16,7106,CX,DTLd,"lateral group of nuclei, right, dorsal division",1034195,75,88,105,21.6,-30.3,4.4,donor10021,donor10021_sample_858
+4464,16,7114,CX,DTLd,"lateral group of nuclei, right, dorsal division",1042460,77,88,105,19.4,-30.4,4.4,donor10021,donor10021_sample_859
+4304,12,5691,CX,SptN,"septal nuclei, right",996329,90,76,82,4.4,-5.1,16.2,donor10021,donor10021_sample_860
+4363,13,7049,CX,CeA,"central nucleus, right",1021896,71,96,92,26,-16.4,-6.3,donor10021,donor10021_sample_861
+4537,13,7027,CX,Pa,"paraventricular nuclei, right of thalamus, right",1021810,93,88,94,1.3,-18.7,3.3,donor10021,donor10021_sample_862
+4395,13,7035,CX,DTA,"anterior group of nuclei, left",1021816,93,81,92,1.2,-16.2,11.3,donor10021,donor10021_sample_863
+4417,13,7043,CX,DTLv,"lateral group of nuclei, left, ventral division",1021817,97,81,93,-3.2,-17.4,11.4,donor10021,donor10021_sample_864
+4455,13,7051,CX,DTM,"medial group of nuclei, right",1021811,90,85,95,4.7,-19.6,6.9,donor10021,donor10021_sample_865
+4534,13,7059,CX,Pa,"paraventricular nuclei, left of thalamus, left",1021983,92,88,94,2.4,-18.6,3.3,donor10021,donor10021_sample_866
+4507,13,7067,CX,ZI,"zona incerta, left",1020675,99,91,95,-5.4,-20,-0.2,donor10021,donor10021_sample_867
+9074,13,7075,CX,SNC,"substantia nigra, pars compacta, left",1020673,105,98,94,-12,-19.3,-8.5,donor10021,donor10021_sample_868
+4400,13,7083,CX,DTM,"medial group of nuclei, left",1021984,93,84,93,1.3,-17.4,7.9,donor10021,donor10021_sample_869
+4518,13,7091,CX,Sb,"subthalamic nucleus, left",1020674,102,91,95,-8.7,-20,-0.2,donor10021,donor10021_sample_870
+9078,13,7099,CX,SNR,"substantia nigra, pars reticulata, right",1020672,81,99,92,14.9,-16.7,-9.8,donor10021,donor10021_sample_871
+4264,13,7073,CX,CA2,"CA2 field, right",1025580,70,103,91,27.2,-15.6,-14.6,donor10021,donor10021_sample_872
+4266,13,7081,CX,CA4,"CA4 field, right",1025582,70,106,91,27.2,-15.7,-18.2,donor10021,donor10021_sample_873
+4367,13,7089,CX,COMA,"cortico-medial group, left",1025948,116,96,93,-24.4,-18.3,-6.3,donor10021,donor10021_sample_874
+4360,13,7097,CX,CeA,"central nucleus, left",1025957,118,97,92,-26.6,-17.3,-7.5,donor10021,donor10021_sample_875
+4256,13,7010,CX,CA3,"CA3 field, left",1029979,117,102,92,-25.5,-17.5,-13.4,donor10021,donor10021_sample_876
+4299,13,7018,CX,GPi,"globus pallidus, internal segment, right",1034816,76,90,93,20.4,-17.3,0.9,donor10021,donor10021_sample_877
+4512,13,7034,CX,R,"reticular nucleus of thalamus, right",1021809,84,81,93,11.3,-17.1,11.4,donor10021,donor10021_sample_878
+4573,13,7042,CX,PVH,"paraventricular nucleus of the hypothalamus, left",1034023,93,86,94,1.3,-18.6,5.6,donor10021,donor10021_sample_879
+13005,13,7050,CX,LHM,"lateral hypothalamic area, mammillary region, left",1020687,102,96,94,-8.7,-19.2,-6.1,donor10021,donor10021_sample_880
+4604,13,7058,CX,PVH,"paraventricular nucleus of the hypothalamus, right",1035504,91,84,95,3.5,-19.6,8.1,donor10021,donor10021_sample_881
+13006,13,7066,CX,LHM,"lateral hypothalamic area, mammillary region, right",1020688,84,95,93,11.5,-17.7,-5,donor10021,donor10021_sample_882
+4671,13,7074,CX,MB,"mammillary body, left",1023598,103,98,94,-9.8,-19.3,-8.5,donor10021,donor10021_sample_883
+4679,13,7082,CX,PHA,"posterior hypothalamic area, left",1020689,98,95,95,-4.2,-20.1,-4.9,donor10021,donor10021_sample_884
+4685,13,7090,CX,MB,"mammillary body, right",1020662,107,104,92,-14.2,-17.4,-15.8,donor10021,donor10021_sample_885
+4693,13,7098,CX,PHA,"posterior hypothalamic area, right",1020690,87,91,94,8.1,-18.7,-0.2,donor10021,donor10021_sample_886
+4450,13,7011,CX,DTA,"anterior group of nuclei, right",1021807,90,79,92,4.6,-16.1,13.7,donor10021,donor10021_sample_887
+4260,13,7009,CX,S,"subiculum, right",1026201,75,110,91,21.7,-15.9,-22.9,donor10021,donor10021_sample_888
+4263,13,7017,CX,CA1,"CA1 field, right",1025579,75,104,91,21.6,-15.7,-15.8,donor10021,donor10021_sample_889
+4285,13,7025,CX,TCd,"tail of caudate nucleus, right",1025471,64,105,91,33.9,-15.5,-17,donor10021,donor10021_sample_890
+4346,13,7033,CX,BLA,"basolateral nucleus, right",1023623,71,98,91,26,-15.4,-8.8,donor10021,donor10021_sample_891
+4355,13,7041,CX,BMA,"basomedial nucleus, right",1023622,70,98,91,27.2,-15.4,-8.8,donor10021,donor10021_sample_892
+4371,13,7057,CX,COMA,"cortico-medial group, right",1025424,71,99,91,26,-15.4,-9.9,donor10021,donor10021_sample_893
+4280,4,11278,CX,HCd,"head of caudate nucleus, left",1275919,104,100,74,-13,17,9,donor12876,donor12876_sample_12
+4291,4,11254,CX,Acb,"nucleus accumbens, left",1273712,103,117,75,-12,16,-8,donor12876,donor12876_sample_14
+4288,4,11341,CX,Pu,"putamen, left",1273711,114,110,74,-23,17,-1,donor12876,donor12876_sample_15
+4524,7,14026,CX,Hl,"lateral habenular nucleus, left",1273598,92,104,111,-1,-20,5,donor12876,donor12876_sample_100
+4523,7,14018,CX,Hm,"medial habenular nucleus, left",1273619,90,105,111,1,-20,4,donor12876,donor12876_sample_101
+4507,7,13986,CX,ZI,"zona incerta, left",1273499,117,109,111,-26,-20,0,donor12876,donor12876_sample_102
+9074,6,14163,CX,SNC,"substantia nigra, pars compacta, left",1287469,102,123,100,-11,-9,-14,donor12876,donor12876_sample_103
+4518,6,14242,CX,Sb,"subthalamic nucleus, left",1287463,104,114,100,-13,-9,-5,donor12876,donor12876_sample_104
+4507,6,14234,CX,ZI,"zona incerta, left",1287465,104,110,100,-13,-9,-1,donor12876,donor12876_sample_105
+4432,6,14226,CX,ILr,"rostral group of intralaminar nuclei, left",1287461,97,106,100,-6,-9,3,donor12876,donor12876_sample_106
+10151,6,14178,CX,LTu,"lateral tuberal nucleus, left",1298100,104,119,100,-13,-9,-10,donor12876,donor12876_sample_107
+4648,6,14241,CX,PeF,"perifornical nucleus, left",1299292,97,121,100,-6,-9,-12,donor12876,donor12876_sample_108
+4637,6,14225,CX,VMH,"ventromedial hypothalamic nucleus, left",1294427,98,123,100,-7,-9,-14,donor12876,donor12876_sample_109
+4506,6,14209,CX,R,"reticular nucleus of thalamus, left",1287456,109,99,100,-18,-9,10,donor12876,donor12876_sample_110
+4417,6,14201,CX,DTLv,"lateral group of nuclei, left, ventral division",1287462,103,101,100,-12,-9,8,donor12876,donor12876_sample_111
+4308,6,14177,CX,nbM,"basal nucleus of meynert, left",1300481,116,110,100,-25,-9,-1,donor12876,donor12876_sample_112
+4296,6,14169,CX,GPi,"globus pallidus, internal segment, left",1285632,116,106,100,-25,-9,3,donor12876,donor12876_sample_113
+4295,6,14161,CX,GPe,"globus pallidus, external segment, left",1285631,119,102,100,-28,-9,7,donor12876,donor12876_sample_114
+4593,5,13794,CX,SO,"supraoptic nucleus, left",1267128,101,125,87,-10,4,-16,donor12876,donor12876_sample_115
+4311,5,13786,CX,DBh,"nucleus of the diagonal band, left, vertical division",1268422,107,121,87,-16,4,-12,donor12876,donor12876_sample_116
+4301,5,13849,CX,SptN,"septal nuclei, left",1282467,96,98,86,-5,5,11,donor12876,donor12876_sample_117
+4322,5,14009,CX,Cl,"claustrum, left",1270187,127,108,88,-36,3,1,donor12876,donor12876_sample_118
+4310,5,13825,CX,DBv,"nucleus of the diagonal band, left, horizontal division",1272995,99,120,87,-8,4,-11,donor12876,donor12876_sample_119
+4440,8,13763,CX,LGd,"dorsal lateral geniculate nucleus, left",1295416,121,111,126,-30,-35,-2,donor12876,donor12876_sample_120
+4506,8,13739,CX,R,"reticular nucleus of thalamus, left",1289300,122,104,126,-31,-35,5,donor12876,donor12876_sample_121
+4409,8,13699,CX,DTLd,"lateral group of nuclei, left, dorsal division",1295258,109,104,126,-18,-35,5,donor12876,donor12876_sample_122
+4288,8,13691,CX,Pu,"putamen, left",1289221,129,102,126,-38,-35,7,donor12876,donor12876_sample_123
+4258,8,13762,CX,DG,"dentate gyrus, left",1288532,123,108,126,-32,-35,1,donor12876,donor12876_sample_124
+4257,8,13754,CX,CA4,"CA4 field, left",1288537,124,107,126,-33,-35,2,donor12876,donor12876_sample_125
+4254,8,13730,CX,CA1,"CA1 field, left",1288898,130,112,126,-39,-35,-3,donor12876,donor12876_sample_126
+4329,6,13610,CX,ATZ,"amygdalohippocampal transition zone, left",1288923,112,121,100,-21,-9,-12,donor12876,donor12876_sample_127
+4379,6,13586,CX,LA,"lateral nucleus, left",1295329,118,126,100,-27,-9,-17,donor12876,donor12876_sample_128
+4342,6,13649,CX,BLA,"basolateral nucleus, left",1295449,116,124,100,-25,-9,-15,donor12876,donor12876_sample_129
+4322,6,13641,CX,Cl,"claustrum, left",1288920,128,119,100,-37,-9,-10,donor12876,donor12876_sample_130
+4444,7,13706,CX,MG,"medial geniculate complex, left",1283861,110,114,111,-19,-20,-5,donor12876,donor12876_sample_131
+4440,7,13690,CX,LGd,"dorsal lateral geniculate nucleus, left",1276104,120,116,111,-29,-20,-7,donor12876,donor12876_sample_132
+9708,7,13769,CX,CPLV,choroid plexus of the lateral ventricle,1278937,116,121,111,-25,-20,-12,donor12876,donor12876_sample_133
+4281,7,13729,CX,TCd,"tail of caudate nucleus, left",1278931,127,120,111,-36,-20,-11,donor12876,donor12876_sample_134
+4258,7,13721,CX,DG,"dentate gyrus, left",1278237,121,123,111,-30,-20,-14,donor12876,donor12876_sample_135
+4255,7,13697,CX,CA2,"CA2 field, left",1278251,123,121,111,-32,-20,-12,donor12876,donor12876_sample_136
+4254,7,13689,CX,CA1,"CA1 field, left",1278252,127,124,111,-36,-20,-15,donor12876,donor12876_sample_137
+4322,6,13601,CX,Cl,"claustrum, left",1277586,129,101,100,-38,-9,8,donor12876,donor12876_sample_138
+4428,7,13979,CX,DTP,"posterior group of nuclei, left",1297220,110,108,111,-19,-20,1,donor12876,donor12876_sample_142
+4409,7,14042,CX,DTLd,"lateral group of nuclei, left, dorsal division",1273591,109,100,111,-18,-20,9,donor12876,donor12876_sample_143
+9067,7,14010,CX,VTA,"ventral tegmental area, left",1310423,92,109,111,-1,-20,0,donor12876,donor12876_sample_144
+9054,7,14002,CX,RN,"red nucleus, left",1278156,99,111,111,-8,-20,-2,donor12876,donor12876_sample_145
+4518,7,13994,CX,Sb,"subthalamic nucleus, left",1277588,118,109,111,-27,-20,0,donor12876,donor12876_sample_146
+4506,7,13978,CX,R,"reticular nucleus of thalamus, left",1273592,117,100,111,-26,-20,9,donor12876,donor12876_sample_147
+4437,7,13970,CX,ILc,"caudal group of intralaminar nuclei, left",1273590,102,105,111,-11,-20,4,donor12876,donor12876_sample_148
+4432,7,14057,CX,ILr,"rostral group of intralaminar nuclei, left",1282300,100,99,111,-9,-20,10,donor12876,donor12876_sample_149
+4417,7,14049,CX,DTLv,"lateral group of nuclei, left, ventral division",1273586,115,104,111,-24,-20,5,donor12876,donor12876_sample_150
+4400,7,14041,CX,DTM,"medial group of nuclei, left",1297219,96,102,111,-5,-20,7,donor12876,donor12876_sample_151
+4395,7,14033,CX,DTA,"anterior group of nuclei, left",1273593,101,96,111,-10,-20,13,donor12876,donor12876_sample_152
+4282,7,14025,CX,BCd,"body of caudate nucleus, left",1273581,115,88,111,-24,-20,21,donor12876,donor12876_sample_153
+9075,6,14250,CX,SNR,"substantia nigra, pars reticulata, left",1287468,104,122,100,-13,-9,-13,donor12876,donor12876_sample_154
+4669,6,14218,CX,SuM,"supramammillary nucleus, left",1310412,97,122,100,-6,-9,-13,donor12876,donor12876_sample_155
+4679,6,14210,CX,PHA,"posterior hypothalamic area, left",1294334,97,119,100,-6,-9,-10,donor12876,donor12876_sample_156
+4675,6,14202,CX,LM,"lateral mammillary nucleus, left",1299316,100,122,100,-9,-9,-13,donor12876,donor12876_sample_157
+13005,6,14194,CX,LHM,"lateral hypothalamic area, mammillary region, left",1294332,98,122,100,-7,-9,-13,donor12876,donor12876_sample_158
+4672,6,14186,CX,MM,"medial mammillary nucleus, left",1294027,97,123,100,-6,-9,-14,donor12876,donor12876_sample_159
+4395,6,14170,CX,DTA,"anterior group of nuclei, left",1302809,97,98,100,-6,-9,11,donor12876,donor12876_sample_160
+13008,6,14162,CX,LHT,"lateral hypothalamic area, tuberal region, left",1299249,102,118,100,-11,-9,-9,donor12876,donor12876_sample_161
+4667,6,14249,CX,TM,"tuberomammillary nucleus, left",1298073,100,124,100,-9,-9,-15,donor12876,donor12876_sample_162
+4641,6,14233,CX,DMH,"dorsomedial hypothalamic nucleus, left",1294428,96,121,100,-5,-9,-12,donor12876,donor12876_sample_163
+4400,6,14193,CX,DTM,"medial group of nuclei, left",1287460,93,105,100,-2,-9,4,donor12876,donor12876_sample_164
+4395,6,14185,CX,DTA,"anterior group of nuclei, left",1287457,96,98,100,-5,-9,11,donor12876,donor12876_sample_165
+4637,5,13826,CX,VMH,"ventromedial hypothalamic nucleus, left",1296195,97,124,87,-6,4,-15,donor12876,donor12876_sample_166
+4641,5,13818,CX,DMH,"dorsomedial hypothalamic nucleus, left",1296194,95,119,87,-4,4,-10,donor12876,donor12876_sample_167
+4573,5,13810,CX,PVH,"paraventricular nucleus of the hypothalamus, left",1268626,94,114,86,-3,5,-5,donor12876,donor12876_sample_168
+4596,5,13802,CX,LHA,"lateral hypothalamic area, anterior region, left",1270882,101,118,87,-10,4,-9,donor12876,donor12876_sample_169
+4542,5,13865,CX,PrOR,"preoptic region, left",1281413,96,116,86,-5,5,-7,donor12876,donor12876_sample_170
+4313,5,13857,CX,BST,"bed  nucleus of stria terminalis, left",1270883,97,108,86,-6,5,1,donor12876,donor12876_sample_171
+4301,5,14017,CX,SptN,"septal nuclei, left",1282467,95,98,86,-4,5,11,donor12876,donor12876_sample_172
+10145,5,13841,CX,OlfT,"olfactory tubercle, left",1281431,109,122,87,-18,4,-13,donor12876,donor12876_sample_173
+4322,5,13833,CX,Cl,"claustrum, left",1270187,126,108,88,-35,3,1,donor12876,donor12876_sample_174
+4291,5,13817,CX,Acb,"nucleus accumbens, left",1273948,104,119,87,-13,4,-10,donor12876,donor12876_sample_175
+4409,8,13755,CX,DTLd,"lateral group of nuclei, left, dorsal division",1295444,108,104,126,-17,-35,5,donor12876,donor12876_sample_176
+9708,8,13747,CX,CPLV,choroid plexus of the lateral ventricle,1288543,124,102,126,-33,-35,7,donor12876,donor12876_sample_177
+4444,8,13731,CX,MG,"medial geniculate complex, left",1294065,108,109,126,-17,-35,0,donor12876,donor12876_sample_178
+4440,8,13723,CX,LGd,"dorsal lateral geniculate nucleus, left",1289292,120,111,126,-29,-35,-2,donor12876,donor12876_sample_179
+4428,8,13715,CX,DTP,"posterior group of nuclei, left",1294066,107,108,126,-16,-35,1,donor12876,donor12876_sample_180
+4256,8,13746,CX,CA3,"CA3 field, left",1288533,123,106,126,-32,-35,3,donor12876,donor12876_sample_181
+4255,8,13738,CX,CA2,"CA2 field, left",1288534,120,101,126,-29,-35,8,donor12876,donor12876_sample_182
+4251,8,13722,CX,S,"subiculum, left",1288900,116,109,126,-25,-35,0,donor12876,donor12876_sample_183
+4254,6,13634,CX,CA1,"CA1 field, left",1289062,118,133,100,-27,-9,-24,donor12876,donor12876_sample_184
+4254,6,13626,CX,CA1,"CA1 field, left",1288915,117,133,100,-26,-9,-24,donor12876,donor12876_sample_185
+4251,6,13618,CX,S,"subiculum, left",1288914,109,135,100,-18,-9,-26,donor12876,donor12876_sample_186
+4360,6,13809,CX,CeA,"central nucleus, left",1295458,119,117,100,-28,-9,-8,donor12876,donor12876_sample_187
+4360,6,13594,CX,CeA,"central nucleus, left",1293191,118,117,100,-27,-9,-8,donor12876,donor12876_sample_188
+4379,6,13673,CX,LA,"lateral nucleus, left",1288928,117,126,100,-26,-9,-17,donor12876,donor12876_sample_189
+4367,6,13665,CX,COMA,"cortico-medial group, left",1288924,115,117,100,-24,-9,-8,donor12876,donor12876_sample_190
+4351,6,13657,CX,BMA,"basomedial nucleus, left",1295450,116,120,100,-25,-9,-11,donor12876,donor12876_sample_191
+9708,7,13682,CX,CPLV,choroid plexus of the lateral ventricle,1278939,115,121,111,-24,-20,-12,donor12876,donor12876_sample_192
+9074,7,13753,CX,SNC,"substantia nigra, pars compacta, left",1283335,109,118,111,-18,-20,-9,donor12876,donor12876_sample_193
+4256,7,13705,CX,CA3,"CA3 field, left",1278250,120,121,111,-29,-20,-12,donor12876,donor12876_sample_194
+4251,7,13681,CX,S,"subiculum, left",1278253,118,129,111,-27,-20,-20,donor12876,donor12876_sample_195
+4322,7,13625,CX,Cl,"claustrum, left",1278659,130,106,110,-39,-19,3,donor12876,donor12876_sample_196
+4288,7,13609,CX,Pu,"putamen, left",1281026,125,102,110,-34,-19,7,donor12876,donor12876_sample_197
+4417,8,13707,CX,DTLv,"lateral group of nuclei, left, ventral division",1293937,121,105,126,-30,-35,4,donor12876,donor12876_sample_198
+4282,8,13683,CX,BCd,"body of caudate nucleus, left",1290962,129,105,126,-38,-35,4,donor12876,donor12876_sample_199
+4281,8,13770,CX,TCd,"tail of caudate nucleus, left",1289315,131,109,126,-40,-35,0,donor12876,donor12876_sample_200
+9222,4,11270,CX,cc,corpus callosum,1282406,97,112,75,-6,16,-3,donor12876,donor12876_sample_221
+9222,3,11317,CX,cc,corpus callosum,1266197,97,105,63,-6,28,4,donor12876,donor12876_sample_222
+4280,3,11301,CX,HCd,"head of caudate nucleus, left",1266728,108,106,61,-17,30,3,donor12876,donor12876_sample_224
+4280,4,11333,CX,HCd,"head of caudate nucleus, left",1273710,103,100,74,-12,17,9,donor12876,donor12876_sample_282
+4288,6,13945,CX,Pu,"putamen, left",1293102,123,99,100,-32,-9,10,donor12876,donor12876_sample_331
+4282,6,13937,CX,BCd,"body of caudate nucleus, left",1293103,112,88,100,-21,-9,21,donor12876,donor12876_sample_332
+9222,5,13929,CX,cc,corpus callosum,1282405,97,92,86,-6,5,17,donor12876,donor12876_sample_333
+4296,5,13921,CX,GPi,"globus pallidus, internal segment, left",1270180,107,112,86,-16,5,-3,donor12876,donor12876_sample_334
+4295,5,13913,CX,GPe,"globus pallidus, external segment, left",1270179,113,107,87,-22,4,2,donor12876,donor12876_sample_335
+4288,5,13905,CX,Pu,"putamen, left",1270178,121,103,87,-30,4,6,donor12876,donor12876_sample_336
+4282,5,13897,CX,BCd,"body of caudate nucleus, left",1270181,105,93,86,-14,5,16,donor12876,donor12876_sample_337
+9222,8,13410,CX,cc,corpus callosum,1282396,103,94,125,-12,-34,15,donor12876,donor12876_sample_340
+4296,7,126439333,CX,GPi,"globus pallidus, internal segment, left",114356712,104,108,88,-13,3,1,donor14380,donor14380_sample_1
+4280,6,126432214,CX,HCd,"head of caudate nucleus, left",1403564,101,100,77,-10,14,9,donor14380,donor14380_sample_13
+4308,7,127687508,CX,nbM,"basal nucleus of meynert, left",114356722,108,121,87,-17,4,-12,donor14380,donor14380_sample_46
+4641,8,127687855,CX,DMH,"dorsomedial hypothalamic nucleus, left",113556744,100,111,98,-9,-7,-2,donor14380,donor14380_sample_63
+4440,10,139379729,CX,LGd,"dorsal lateral geniculate nucleus, left",111263691,117,114,117,-26,-26,-5,donor14380,donor14380_sample_64
+4288,10,139379898,CX,Pu,"putamen, left",113266299,129,111,117,-38,-26,-2,donor14380,donor14380_sample_65
+4281,10,139379882,CX,TCd,"tail of caudate nucleus, left",1406550,127,114,117,-36,-26,-5,donor14380,donor14380_sample_66
+4257,10,139379850,CX,CA4,"CA4 field, left",112954868,121,118,117,-30,-26,-9,donor14380,donor14380_sample_67
+4255,10,139379810,CX,CA2,"CA2 field, left",113044491,126,116,117,-35,-26,-7,donor14380,donor14380_sample_68
+4440,10,139379780,CX,LGd,"dorsal lateral geniculate nucleus, left",111263692,116,114,117,-25,-26,-5,donor14380,donor14380_sample_69
+4257,10,139379764,CX,CA4,"CA4 field, left",113266083,120,118,117,-29,-26,-9,donor14380,donor14380_sample_70
+9079,10,139379762,CX,PTec,pretectal region,113615317,103,104,117,-12,-26,5,donor14380,donor14380_sample_71
+9004,10,139379880,CX,CGMB,"central gray substance of midbrain, left",111350082,100,105,117,-9,-26,4,donor14380,donor14380_sample_72
+4437,10,139379848,CX,ILc,"caudal group of intralaminar nuclei, left",112613974,105,101,117,-14,-26,8,donor14380,donor14380_sample_73
+4417,10,139379792,CX,DTLv,"lateral group of nuclei, left, ventral division",112946261,112,99,117,-21,-26,10,donor14380,donor14380_sample_74
+4409,10,139379776,CX,DTLd,"lateral group of nuclei, left, dorsal division",111353032,108,99,117,-17,-26,10,donor14380,donor14380_sample_75
+4400,10,139379760,CX,DTM,"medial group of nuclei, left",112954512,101,95,117,-10,-26,14,donor14380,donor14380_sample_76
+4288,10,139379725,CX,Pu,"putamen, left",113186801,122,102,118,-31,-27,7,donor14380,donor14380_sample_77
+9004,10,139379896,CX,CGMB,"central gray substance of midbrain, left",113819219,99,105,117,-8,-26,4,donor14380,donor14380_sample_78
+4444,10,139379727,CX,MG,"medial geniculate complex, left",113819220,110,111,117,-19,-26,-2,donor14380,donor14380_sample_79
+9074,9,139379908,CX,SNC,"substantia nigra, pars compacta, left",111937781,104,119,109,-13,-18,-10,donor14380,donor14380_sample_80
+9054,9,139379774,CX,RN,"red nucleus, left",111937779,98,118,109,-7,-18,-9,donor14380,donor14380_sample_81
+9031,9,139379862,CX,3,"oculomotor nuclear complex, left",111938333,93,117,109,-2,-18,-8,donor14380,donor14380_sample_82
+4518,9,139379892,CX,Sb,"subthalamic nucleus, left",111887279,107,111,109,-16,-18,-2,donor14380,donor14380_sample_83
+4507,9,139379876,CX,ZI,"zona incerta, left",111938330,107,112,109,-16,-18,-3,donor14380,donor14380_sample_84
+4506,9,139379860,CX,R,"reticular nucleus of thalamus, left",112157619,111,98,109,-20,-18,11,donor14380,donor14380_sample_85
+4437,9,139379806,CX,ILc,"caudal group of intralaminar nuclei, left",112147668,99,105,109,-8,-18,4,donor14380,donor14380_sample_86
+4409,9,139379894,CX,DTLd,"lateral group of nuclei, left, dorsal division",113819304,105,89,109,-14,-18,20,donor14380,donor14380_sample_87
+4400,9,139379804,CX,DTM,"medial group of nuclei, left",112158317,98,96,109,-7,-18,13,donor14380,donor14380_sample_88
+4296,9,139379788,CX,GPi,"globus pallidus, internal segment, left",112322075,113,112,109,-22,-18,-3,donor14380,donor14380_sample_89
+4288,9,139379756,CX,Pu,"putamen, left",112148292,122,108,109,-31,-18,1,donor14380,donor14380_sample_90
+9708,11,139379890,CX,CPLV,choroid plexus of the lateral ventricle,113075242,119,102,129,-28,-38,7,donor14380,donor14380_sample_91
+4532,11,139379874,CX,PIN,pineal gland,113512322,104,112,129,-13,-38,-3,donor14380,donor14380_sample_92
+4409,11,139379858,CX,DTLd,"lateral group of nuclei, left, dorsal division",113042947,109,105,129,-18,-38,4,donor14380,donor14380_sample_93
+4257,11,139379786,CX,CA4,"CA4 field, left",113213777,115,104,129,-24,-38,5,donor14380,donor14380_sample_94
+4258,11,139379802,CX,DG,"dentate gyrus, left",112429620,114,105,129,-23,-38,4,donor14380,donor14380_sample_95
+4282,11,139379842,CX,BCd,"body of caudate nucleus, left",113074648,124,98,129,-33,-38,11,donor14380,donor14380_sample_96
+4256,11,139379906,CX,CA3,"CA3 field, left",113355697,114,104,129,-23,-38,5,donor14380,donor14380_sample_97
+4409,11,139379721,CX,DTLd,"lateral group of nuclei, left, dorsal division",113509827,108,105,129,-17,-38,4,donor14380,donor14380_sample_98
+4288,7,126432517,CX,Pu,"putamen, left",1404174,114,97,88,-23,3,12,donor14380,donor14380_sample_154
+4282,7,126432120,CX,BCd,"body of caudate nucleus, left",1404173,104,89,88,-13,3,20,donor14380,donor14380_sample_155
+4288,6,126432230,CX,Pu,"putamen, left",1403563,112,106,77,-21,14,3,donor14380,donor14380_sample_157
+4280,6,126431627,CX,HCd,"head of caudate nucleus, left",1403557,104,93,77,-13,14,16,donor14380,donor14380_sample_160
+4288,5,127687506,CX,Pu,"putamen, left",1394712,111,105,67,-20,24,4,donor14380,donor14380_sample_175
+4280,5,127687490,CX,HCd,"head of caudate nucleus, left",1394711,108,102,67,-17,24,7,donor14380,donor14380_sample_176
+4598,7,127687605,CX,AHA,"anterior hypothalamic area, left",119961819,94,117,88,-3,3,-8,donor14380,donor14380_sample_177
+4593,7,127687588,CX,SO,"supraoptic nucleus, left",114356719,97,121,87,-6,4,-12,donor14380,donor14380_sample_178
+4596,7,127687572,CX,LHA,"lateral hypothalamic area, anterior region, left",114356720,98,115,88,-7,3,-6,donor14380,donor14380_sample_179
+4573,7,127687556,CX,PVH,"paraventricular nucleus of the hypothalamus, left",119961764,93,111,88,-2,3,-2,donor14380,donor14380_sample_180
+4542,7,127687540,CX,PrOR,"preoptic region, left",119961804,94,111,88,-3,3,-2,donor14380,donor14380_sample_181
+4311,7,127687524,CX,DBh,"nucleus of the diagonal band, left, vertical division",114356721,107,125,87,-16,4,-16,donor14380,donor14380_sample_182
+10145,7,127687492,CX,OlfT,"olfactory tubercle, left",114320370,113,127,87,-22,4,-18,donor14380,donor14380_sample_183
+4322,7,127687651,CX,Cl,"claustrum, left",114357403,123,112,87,-32,4,-3,donor14380,donor14380_sample_185
+4313,7,127687635,CX,BST,"bed  nucleus of stria terminalis, left",119961765,96,104,88,-5,3,5,donor14380,donor14380_sample_186
+4310,7,127687619,CX,DBv,"nucleus of the diagonal band, left, horizontal division",114234667,95,115,88,-4,3,-6,donor14380,donor14380_sample_187
+4301,7,127687603,CX,SptN,"septal nuclei, left",114376339,94,100,88,-3,3,9,donor14380,donor14380_sample_188
+4291,7,127687586,CX,Acb,"nucleus accumbens, left",113835983,102,117,88,-11,3,-8,donor14380,donor14380_sample_189
+4256,9,127687558,CX,CA3,"CA3 field, left",113670035,119,125,109,-28,-18,-16,donor14380,donor14380_sample_194
+4255,9,127687526,CX,CA2,"CA2 field, left",113667270,124,123,109,-33,-18,-14,donor14380,donor14380_sample_195
+4322,9,127687494,CX,Cl,"claustrum, left",112705907,126,112,109,-35,-18,-3,donor14380,donor14380_sample_196
+4288,9,127687669,CX,Pu,"putamen, left",113567322,124,115,109,-33,-18,-6,donor14380,donor14380_sample_197
+4281,9,127687653,CX,TCd,"tail of caudate nucleus, left",113580235,125,121,109,-34,-18,-12,donor14380,donor14380_sample_198
+4254,9,127687637,CX,CA1,"CA1 field, left",1408736,126,126,109,-35,-18,-17,donor14380,donor14380_sample_199
+9075,8,127687905,CX,SNR,"substantia nigra, pars reticulata, left",111317335,104,118,98,-13,-7,-9,donor14380,donor14380_sample_200
+4518,8,127687889,CX,Sb,"subthalamic nucleus, left",1408598,105,112,98,-14,-7,-3,donor14380,donor14380_sample_201
+4507,8,127687873,CX,ZI,"zona incerta, left",111317334,105,107,98,-14,-7,2,donor14380,donor14380_sample_202
+4597,8,127687841,CX,PalHy,"pallidohypothalamic nucleus, left",113603636,102,118,98,-11,-7,-9,donor14380,donor14380_sample_203
+4675,8,127687825,CX,LM,"lateral mammillary nucleus, left",113558001,103,115,98,-12,-7,-6,donor14380,donor14380_sample_204
+13005,8,127687999,CX,LHM,"lateral hypothalamic area, mammillary region, left",111833022,101,113,98,-10,-7,-4,donor14380,donor14380_sample_205
+4669,8,127687983,CX,SuM,"supramammillary nucleus, left",113603638,98,116,98,-7,-7,-7,donor14380,donor14380_sample_206
+4672,8,127687967,CX,MM,"medial mammillary nucleus, left",113891640,101,119,98,-10,-7,-10,donor14380,donor14380_sample_207
+4679,8,127687951,CX,PHA,"posterior hypothalamic area, left",113603982,99,107,98,-8,-7,2,donor14380,donor14380_sample_208
+4672,8,127687935,CX,MM,"medial mammillary nucleus, left",111315526,100,119,98,-9,-7,-10,donor14380,donor14380_sample_209
+13008,8,127687919,CX,LHT,"lateral hypothalamic area, tuberal region, left",112369307,101,110,98,-10,-7,-1,donor14380,donor14380_sample_210
+10151,8,127687903,CX,LTu,"lateral tuberal nucleus, left",113556801,105,115,98,-14,-7,-6,donor14380,donor14380_sample_211
+4667,8,127687887,CX,TM,"tuberomammillary nucleus, left",111832970,102,115,98,-11,-7,-6,donor14380,donor14380_sample_212
+4648,8,127687871,CX,PeF,"perifornical nucleus, left",111263910,104,115,98,-13,-7,-6,donor14380,donor14380_sample_213
+4637,8,127687839,CX,VMH,"ventromedial hypothalamic nucleus, left",113556745,100,113,98,-9,-7,-4,donor14380,donor14380_sample_214
+4573,8,127687997,CX,PVH,"paraventricular nucleus of the hypothalamus, left",113556765,100,105,98,-9,-7,4,donor14380,donor14380_sample_215
+4400,8,127687933,CX,DTM,"medial group of nuclei, left",1408601,95,95,98,-4,-7,14,donor14380,donor14380_sample_216
+4395,8,127687917,CX,DTA,"anterior group of nuclei, left",1408597,98,90,97,-7,-6,19,donor14380,donor14380_sample_217
+4322,8,127687901,CX,Cl,"claustrum, left",111316935,128,107,97,-37,-6,2,donor14380,donor14380_sample_218
+4301,8,127687885,CX,SptN,"septal nuclei, left",112363513,95,92,97,-4,-6,17,donor14380,donor14380_sample_219
+4254,12,127687837,CX,CA1,"CA1 field, left",112495161,114,101,138,-23,-47,8,donor14380,donor14380_sample_220
+4251,12,127687821,CX,S,"subiculum, left",113462593,111,101,138,-20,-47,8,donor14380,donor14380_sample_221
+4322,9,127687570,CX,Cl,"claustrum, left",1407745,127,108,109,-36,-18,1,donor14380,donor14380_sample_222
+4329,8,127687995,CX,ATZ,"amygdalohippocampal transition zone, left",112723791,110,122,98,-19,-7,-13,donor14380,donor14380_sample_223
+4360,8,127687979,CX,CeA,"central nucleus, left",1396107,118,117,98,-27,-7,-8,donor14380,donor14380_sample_224
+4379,8,127687947,CX,LA,"lateral nucleus, left",1396096,116,131,98,-25,-7,-22,donor14380,donor14380_sample_225
+4367,8,127687931,CX,COMA,"cortico-medial group, left",1396126,113,117,98,-22,-7,-8,donor14380,donor14380_sample_226
+4351,8,127687915,CX,BMA,"basomedial nucleus, left",1396099,115,121,98,-24,-7,-12,donor14380,donor14380_sample_227
+4342,8,127687899,CX,BLA,"basolateral nucleus, left",1396097,116,125,98,-25,-7,-16,donor14380,donor14380_sample_228
+4322,8,127687883,CX,Cl,"claustrum, left",1396101,128,119,98,-37,-7,-10,donor14380,donor14380_sample_229
+4308,8,127687867,CX,nbM,"basal nucleus of meynert, left",1396100,119,114,98,-28,-7,-5,donor14380,donor14380_sample_230
+4313,7,127687554,CX,BST,"bed  nucleus of stria terminalis, left",1407198,97,99,88,-6,3,10,donor14380,donor14380_sample_231
+4291,6,127687819,CX,Acb,"nucleus accumbens, left",1396187,101,115,77,-10,14,-6,donor14380,donor14380_sample_232
+4288,7,126432136,CX,Pu,"putamen, left",1404174,113,97,88,-22,3,12,donor14380,donor14380_sample_365
+9222,6,126431643,CX,cc,corpus callosum,1404114,99,87,77,-8,14,22,donor14380,donor14380_sample_373
+4288,7,126439301,CX,Pu,"putamen, left",114356714,115,108,88,-24,3,1,donor14380,donor14380_sample_390
+4288,8,126435806,CX,Pu,"putamen, left",111250803,123,106,98,-32,-7,3,donor14380,donor14380_sample_437
+4282,8,126435790,CX,BCd,"body of caudate nucleus, left",111250802,109,87,97,-18,-6,22,donor14380,donor14380_sample_438
+4257,9,127687542,CX,CA4,"CA4 field, left",113670034,119,126,109,-28,-18,-17,donor14380,donor14380_sample_495
+4258,9,127687510,CX,DG,"dentate gyrus, left",1408739,116,126,109,-25,-18,-17,donor14380,donor14380_sample_496
+4251,9,127687621,CX,S,"subiculum, left",1408735,115,129,109,-24,-18,-20,donor14380,donor14380_sample_497
+4432,8,127687857,CX,ILr,"rostral group of intralaminar nuclei, left",112380306,99,100,98,-8,-7,9,donor14380,donor14380_sample_498
+4534,8,127687981,CX,Pa,"paraventricular nuclei, left of thalamus, left",111334757,100,104,98,-9,-7,5,donor14380,donor14380_sample_499
+4440,10,139379746,CX,LGd,"dorsal lateral geniculate nucleus, left",111350063,117,111,117,-26,-26,-2,donor14380,donor14380_sample_500
+4444,10,139379912,CX,MG,"medial geniculate complex, left",111353030,109,111,117,-18,-26,-2,donor14380,donor14380_sample_501
+4506,10,139379864,CX,R,"reticular nucleus of thalamus, left",113186800,114,97,117,-23,-26,12,donor14380,donor14380_sample_502
+4432,10,139379832,CX,ILr,"rostral group of intralaminar nuclei, left",112946263,100,90,117,-9,-26,19,donor14380,donor14380_sample_503
+4428,10,139379808,CX,DTP,"posterior group of nuclei, left",112953257,105,102,117,-14,-26,7,donor14380,donor14380_sample_504
+4322,10,139379744,CX,Cl,"claustrum, left",113171144,128,98,118,-37,-27,11,donor14380,donor14380_sample_505
+4282,10,139379910,CX,BCd,"body of caudate nucleus, left",111353065,113,87,117,-22,-26,22,donor14380,donor14380_sample_506
+4506,10,139379748,CX,R,"reticular nucleus of thalamus, left",113979443,122,112,117,-31,-26,-3,donor14380,donor14380_sample_507
+4322,10,139379914,CX,Cl,"claustrum, left",113250881,132,108,117,-41,-26,1,donor14380,donor14380_sample_508
+4258,10,139379866,CX,DG,"dentate gyrus, left",1406549,121,119,117,-30,-26,-10,donor14380,donor14380_sample_509
+4256,10,139379834,CX,CA3,"CA3 field, left",113185243,122,117,117,-31,-26,-8,donor14380,donor14380_sample_510
+4254,10,139379794,CX,CA1,"CA1 field, left",113185244,124,121,117,-33,-26,-12,donor14380,donor14380_sample_511
+4251,10,139379778,CX,S,"subiculum, left",113185245,114,119,117,-23,-26,-10,donor14380,donor14380_sample_512
+9016,9,139379878,CX,ICjl,"interstitial nucleus of Cajal, left",111938332,93,113,109,-2,-18,-4,donor14380,donor14380_sample_513
+9048,9,139379846,CX,Dk,"nucleus of Darkschewitsch, left",113817850,93,112,109,-2,-18,-3,donor14380,donor14380_sample_514
+9450,9,139379830,CX,EW,"Edinger-Westphal nucleus, left",113819090,92,116,109,-1,-18,-7,donor14380,donor14380_sample_515
+9067,9,139379790,CX,VTA,"ventral tegmental area, left",111938261,101,119,109,-10,-18,-10,donor14380,donor14380_sample_516
+4395,9,139379758,CX,DTA,"anterior group of nuclei, left",113819473,102,85,109,-11,-18,24,donor14380,donor14380_sample_517
+4395,9,139379741,CX,DTA,"anterior group of nuclei, left",112147755,101,85,109,-10,-18,24,donor14380,donor14380_sample_518
+9075,9,139379723,CX,SNR,"substantia nigra, pars reticulata, left",111938262,105,116,109,-14,-18,-7,donor14380,donor14380_sample_519
+4432,9,139379844,CX,ILr,"rostral group of intralaminar nuclei, left",113905403,103,92,109,-12,-18,17,donor14380,donor14380_sample_520
+4417,9,139379828,CX,DTLv,"lateral group of nuclei, left, ventral division",113819189,107,102,109,-16,-18,7,donor14380,donor14380_sample_521
+4282,9,139379739,CX,BCd,"body of caudate nucleus, left",112155004,110,86,109,-19,-18,23,donor14380,donor14380_sample_522
+4281,11,139379826,CX,TCd,"tail of caudate nucleus, left",113072995,126,100,129,-35,-38,9,donor14380,donor14380_sample_523
+4256,11,139379770,CX,CA3,"CA3 field, left",113328411,116,104,129,-25,-38,5,donor14380,donor14380_sample_524
+4255,11,139379754,CX,CA2,"CA2 field, left",112522348,120,101,129,-29,-38,8,donor14380,donor14380_sample_525
+4254,11,139379737,CX,CA1,"CA1 field, left",113380929,119,108,129,-28,-38,1,donor14380,donor14380_sample_526
+4251,11,139379717,CX,S,"subiculum, left",113380930,110,108,129,-19,-38,1,donor14380,donor14380_sample_527
+4593,8,127687963,CX,SO,"supraoptic nucleus, left",112456369,110,117,98,-19,-7,-8,donor14380,donor14380_sample_528
+4288,8,127687851,CX,Pu,"putamen, left",112718106,123,113,98,-32,-7,-4,donor14380,donor14380_sample_529
+4288,6,139409807,CX,Pu,"putamen, left",123591460,110,103,82,-19,9,6,donor15496,donor15496_sample_58
+4280,5,139409743,CX,HCd,"head of caudate nucleus, left",126679041,108,102,72,-17,19,7,donor15496,donor15496_sample_60
+4291,5,139409917,CX,Acb,"nucleus accumbens, left",126218224,103,114,72,-12,19,-5,donor15496,donor15496_sample_61
+4280,5,139409885,CX,HCd,"head of caudate nucleus, left",122834756,107,102,72,-16,19,7,donor15496,donor15496_sample_62
+4295,6,156434461,CX,GPe,"globus pallidus, external segment, left",126221708,114,125,84,-23,7,-16,donor15496,donor15496_sample_93
+4282,6,156434429,CX,BCd,"body of caudate nucleus, left",126220130,106,100,82,-15,9,9,donor15496,donor15496_sample_94
+4282,7,156434555,CX,BCd,"body of caudate nucleus, left",126715264,103,90,92,-12,-1,19,donor15496,donor15496_sample_95
+4282,9,147712602,CX,BCd,"body of caudate nucleus, left",127945266,112,93,118,-21,-27,16,donor15496,donor15496_sample_127
+4288,8,149052726,CX,Pu,"putamen, left",127764406,122,105,107,-31,-16,4,donor15496,donor15496_sample_132
+4288,5,139409901,CX,Pu,"putamen, left",122820849,113,111,72,-22,19,-2,donor15496,donor15496_sample_152
+4288,6,156434445,CX,Pu,"putamen, left",126221599,120,110,82,-29,9,-1,donor15496,donor15496_sample_158
+4296,7,156434413,CX,GPi,"globus pallidus, internal segment, left",126715267,113,113,92,-22,-1,-4,donor15496,donor15496_sample_159
+4295,7,156434587,CX,GPe,"globus pallidus, external segment, left",126715266,114,109,92,-23,-1,0,donor15496,donor15496_sample_160
+4288,7,156434571,CX,Pu,"putamen, left",126715265,120,107,92,-29,-1,2,donor15496,donor15496_sample_161
+9222,4,127686973,CX,cc,corpus callosum,125137155,100,104,57,-9,34,5,donor15496,donor15496_sample_215
+4669,7,156906928,CX,SuM,"supramammillary nucleus, left",146082220,99,115,91,-8,0,-6,donor15496,donor15496_sample_224
+13005,7,156906912,CX,LHM,"lateral hypothalamic area, mammillary region, left",146082294,102,115,91,-11,0,-6,donor15496,donor15496_sample_225
+4679,7,156906864,CX,PHA,"posterior hypothalamic area, left",148223788,98,113,91,-7,0,-4,donor15496,donor15496_sample_226
+4644,7,156906942,CX,ARH,"arcuate nucleus of the hypothalamus, left",148160815,99,118,91,-8,0,-9,donor15496,donor15496_sample_227
+4641,7,156906878,CX,DMH,"dorsomedial hypothalamic nucleus, left",148072329,100,118,91,-9,0,-9,donor15496,donor15496_sample_228
+4573,7,156906830,CX,PVH,"paraventricular nucleus of the hypothalamus, left",148093164,99,112,91,-8,0,-3,donor15496,donor15496_sample_229
+4308,6,156906924,CX,nbM,"basal nucleus of meynert, left",126524993,109,125,85,-18,6,-16,donor15496,donor15496_sample_231
+10145,6,156906892,CX,OlfT,"olfactory tubercle, left",148964485,106,128,85,-15,6,-19,donor15496,donor15496_sample_232
+4313,6,156906876,CX,BST,"bed  nucleus of stria terminalis, left",126222111,99,116,84,-8,7,-7,donor15496,donor15496_sample_233
+4310,6,156906860,CX,DBv,"nucleus of the diagonal band, left, horizontal division",126532035,93,74,82,-2,9,35,donor15496,donor15496_sample_234
+4257,10,148955282,CX,CA4,"CA4 field, left",124073666,113,101,130,-22,-39,8,donor15496,donor15496_sample_249
+4256,10,148955266,CX,CA3,"CA3 field, left",138058295,114,101,130,-23,-39,8,donor15496,donor15496_sample_250
+4444,9,148955170,CX,MG,"medial geniculate complex, left",131299383,126,117,119,-35,-28,-8,donor15496,donor15496_sample_251
+9004,9,148955138,CX,CGMB,"central gray substance of midbrain, left",127020881,111,129,119,-20,-28,-20,donor15496,donor15496_sample_252
+4440,9,148955280,CX,LGd,"dorsal lateral geniculate nucleus, left",127537195,133,117,119,-42,-28,-8,donor15496,donor15496_sample_253
+9074,8,147628200,CX,SNC,"substantia nigra, pars compacta, left",127094343,109,120,106,-18,-15,-11,donor15496,donor15496_sample_263
+4400,8,147628315,CX,DTM,"medial group of nuclei, left",126421172,95,100,105,-4,-14,9,donor15496,donor15496_sample_264
+4282,8,147628214,CX,BCd,"body of caudate nucleus, left",127653277,113,90,106,-22,-15,19,donor15496,donor15496_sample_265
+4258,8,147628345,CX,DG,"dentate gyrus, left",127001454,118,131,107,-27,-16,-22,donor15496,donor15496_sample_266
+9074,8,147628274,CX,SNC,"substantia nigra, pars compacta, left",126970581,109,123,106,-18,-15,-14,donor15496,donor15496_sample_267
+4288,8,147628228,CX,Pu,"putamen, left",126968577,129,118,107,-38,-16,-9,donor15496,donor15496_sample_268
+4251,8,147628196,CX,S,"subiculum, left",127001456,114,138,106,-23,-15,-29,donor15496,donor15496_sample_269
+4360,7,147628359,CX,CeA,"central nucleus, left",120660870,119,124,92,-28,-1,-15,donor15496,donor15496_sample_270
+4342,7,147628292,CX,BLA,"basolateral nucleus, left",126686407,118,130,92,-27,-1,-21,donor15496,donor15496_sample_271
+4437,8,147628279,CX,ILc,"caudal group of intralaminar nuclei, left",126421173,100,108,105,-9,-14,1,donor15496,donor15496_sample_273
+4409,8,147628260,CX,DTLd,"lateral group of nuclei, left, dorsal division",125699701,106,98,106,-15,-15,11,donor15496,donor15496_sample_274
+4507,8,156906866,CX,ZI,"zona incerta, left",127091799,108,112,106,-17,-15,-3,donor15496,donor15496_sample_275
+4506,8,147628363,CX,R,"reticular nucleus of thalamus, left",126426187,113,101,107,-22,-16,8,donor15496,donor15496_sample_276
+4432,8,147628347,CX,ILr,"rostral group of intralaminar nuclei, left",126421169,101,99,106,-10,-15,10,donor15496,donor15496_sample_277
+4417,8,147628331,CX,DTLv,"lateral group of nuclei, left, ventral division",127020516,108,107,106,-17,-15,2,donor15496,donor15496_sample_278
+4322,8,147628277,CX,Cl,"claustrum, left",126995493,125,102,106,-34,-15,7,donor15496,donor15496_sample_279
+4257,8,147628361,CX,CA4,"CA4 field, left",127001567,117,131,107,-26,-16,-22,donor15496,donor15496_sample_280
+4379,7,147628272,CX,LA,"lateral nucleus, left",120660819,121,134,92,-30,-1,-25,donor15496,donor15496_sample_281
+4342,7,147628252,CX,BLA,"basolateral nucleus, left",120660838,117,130,92,-26,-1,-21,donor15496,donor15496_sample_282
+4432,7,156906960,CX,ILr,"rostral group of intralaminar nuclei, left",126787185,96,101,91,-5,0,8,donor15496,donor15496_sample_283
+4507,7,156906880,CX,ZI,"zona incerta, left",122788940,104,107,91,-13,0,2,donor15496,donor15496_sample_284
+4400,7,156906958,CX,DTM,"medial group of nuclei, left",126787173,98,107,91,-7,0,2,donor15496,donor15496_sample_285
+4506,7,156906926,CX,R,"reticular nucleus of thalamus, left",122788913,104,99,91,-13,0,10,donor15496,donor15496_sample_286
+4648,7,156906910,CX,PeF,"perifornical nucleus, left",122819904,101,117,91,-10,0,-8,donor15496,donor15496_sample_287
+4322,6,156906844,CX,Cl,"claustrum, left",126222139,112,123,84,-21,7,-14,donor15496,donor15496_sample_288
+4251,10,148955218,CX,S,"subiculum, left",138072210,123,106,131,-32,-40,3,donor15496,donor15496_sample_297
+9115,9,148955154,CX,SC,"superior colliculus, left",128014918,107,119,119,-16,-28,-10,donor15496,donor15496_sample_298
+4506,9,156906898,CX,R,"reticular nucleus of thalamus, left",127423828,124,103,119,-33,-28,6,donor15496,donor15496_sample_299
+4444,9,148955296,CX,MG,"medial geniculate complex, left",127820096,125,117,119,-34,-28,-8,donor15496,donor15496_sample_300
+4428,9,148955264,CX,DTP,"posterior group of nuclei, left",128013585,114,113,119,-23,-28,-4,donor15496,donor15496_sample_301
+4417,9,148955248,CX,DTLv,"lateral group of nuclei, left, ventral division",127810394,121,103,119,-30,-28,6,donor15496,donor15496_sample_302
+4281,9,148955184,CX,TCd,"tail of caudate nucleus, left",127423291,134,114,119,-43,-28,-5,donor15496,donor15496_sample_303
+4256,9,148955136,CX,CA3,"CA3 field, left",127589931,127,118,119,-36,-28,-9,donor15496,donor15496_sample_304
+4255,9,148955119,CX,CA2,"CA2 field, left",127589930,131,117,119,-40,-28,-8,donor15496,donor15496_sample_305
+4251,9,148955278,CX,S,"subiculum, left",138199839,118,124,119,-27,-28,-15,donor15496,donor15496_sample_306
+4597,7,156906626,CX,PalHy,"pallidohypothalamic nucleus, left",146082206,103,115,91,-12,0,-6,donor15496,donor15496_sample_318
+4672,7,156906896,CX,MM,"medial mammillary nucleus, left",146081755,101,118,91,-10,0,-9,donor15496,donor15496_sample_319
+4395,7,156906848,CX,DTA,"anterior group of nuclei, left",122788902,97,95,91,-6,0,14,donor15496,donor15496_sample_320
+4667,7,156907006,CX,TM,"tuberomammillary nucleus, left",148209591,103,118,91,-12,0,-9,donor15496,donor15496_sample_321
+13008,7,156906894,CX,LHT,"lateral hypothalamic area, tuberal region, left",148150284,104,117,91,-13,0,-8,donor15496,donor15496_sample_322
+4637,7,156906862,CX,VMH,"ventromedial hypothalamic nucleus, left",148072328,101,120,91,-10,0,-11,donor15496,donor15496_sample_323
+4308,7,156906972,CX,nbM,"basal nucleus of meynert, left",123242450,118,119,92,-27,-1,-10,donor15496,donor15496_sample_324
+4542,6,156906622,CX,PrOR,"preoptic region, left",148917298,94,115,86,-3,5,-6,donor15496,donor15496_sample_325
+4291,6,156906828,CX,Acb,"nucleus accumbens, left",149038910,96,128,87,-5,4,-19,donor15496,donor15496_sample_326
+4258,10,148955298,CX,DG,"dentate gyrus, left",124073525,112,101,130,-21,-39,8,donor15496,donor15496_sample_344
+4281,10,148955202,CX,TCd,"tail of caudate nucleus, left",124073506,123,98,132,-32,-41,11,donor15496,donor15496_sample_345
+9115,9,148955186,CX,SC,"superior colliculus, left",131238196,106,119,119,-15,-28,-10,donor15496,donor15496_sample_346
+4409,9,148955232,CX,DTLd,"lateral group of nuclei, left, dorsal division",127538166,116,106,119,-25,-28,3,donor15496,donor15496_sample_347
+4288,9,148955200,CX,Pu,"putamen, left",127423737,123,99,119,-32,-28,10,donor15496,donor15496_sample_348
+4258,9,148955168,CX,DG,"dentate gyrus, left",127537206,125,120,119,-34,-28,-11,donor15496,donor15496_sample_349
+4257,9,148955152,CX,CA4,"CA4 field, left",127589932,125,119,119,-34,-28,-10,donor15496,donor15496_sample_350
+4254,9,148955294,CX,CA1,"CA1 field, left",138199757,132,123,119,-41,-28,-14,donor15496,donor15496_sample_351
+9054,8,156906564,CX,RN,"red nucleus, left",126917538,93,114,105,-2,-14,-5,donor15496,donor15496_sample_361
+4518,8,147628395,CX,Sb,"subthalamic nucleus, left",126910134,106,113,106,-15,-15,-4,donor15496,donor15496_sample_362
+4395,8,147628297,CX,DTA,"anterior group of nuclei, left",125582055,94,92,105,-3,-14,17,donor15496,donor15496_sample_363
+4256,8,147628198,CX,CA3,"CA3 field, left",127094416,110,129,106,-19,-15,-20,donor15496,donor15496_sample_364
+4281,8,147628393,CX,TCd,"tail of caudate nucleus, left",120899342,131,126,107,-40,-16,-17,donor15496,donor15496_sample_365
+4255,8,147628377,CX,CA2,"CA2 field, left",127094417,120,126,107,-29,-16,-17,donor15496,donor15496_sample_366
+4329,7,147628391,CX,ATZ,"amygdalohippocampal transition zone, left",126769121,107,126,92,-16,-1,-17,donor15496,donor15496_sample_367
+4672,7,147628343,CX,MM,"medial mammillary nucleus, left",126528477,101,121,91,-10,0,-12,donor15496,donor15496_sample_368
+4351,7,147628311,CX,BMA,"basomedial nucleus, left",120660851,115,126,92,-24,-1,-17,donor15496,donor15496_sample_369
+4322,7,147628226,CX,Cl,"claustrum, left",120985899,130,121,92,-39,-1,-12,donor15496,donor15496_sample_370
+4322,6,147628210,CX,Cl,"claustrum, left",122692231,118,114,83,-27,8,-5,donor15496,donor15496_sample_371
+9222,6,127687121,CX,cc,corpus callosum,125142322,108,89,80,-17,11,20,donor15496,donor15496_sample_428
+4675,7,156906976,CX,LM,"lateral mammillary nucleus, left",148093168,102,118,91,-11,0,-9,donor15496,donor15496_sample_448
+4417,7,156906832,CX,DTLv,"lateral group of nuclei, left, ventral division",122788910,101,102,91,-10,0,7,donor15496,donor15496_sample_449
+10151,7,156906990,CX,LTu,"lateral tuberal nucleus, left",148160720,106,119,91,-15,0,-10,donor15496,donor15496_sample_450
+4311,6,156906908,CX,DBh,"nucleus of the diagonal band, left, vertical division",148907120,98,124,86,-7,5,-15,donor15496,donor15496_sample_451
+4255,10,148955250,CX,CA2,"CA2 field, left",138059755,116,99,130,-25,-39,10,donor15496,donor15496_sample_459
+9075,8,147628216,CX,SNR,"substantia nigra, pars reticulata, left",127094342,111,118,106,-20,-15,-9,donor15496,donor15496_sample_465
+9067,8,156907008,CX,VTA,"ventral tegmental area, left",126972550,103,121,105,-12,-14,-12,donor15496,donor15496_sample_466
+9075,8,156906992,CX,SNR,"substantia nigra, pars reticulata, left",126971019,108,123,106,-17,-15,-14,donor15496,donor15496_sample_467
+4322,8,147628255,CX,Cl,"claustrum, left",121079176,132,117,107,-41,-16,-8,donor15496,donor15496_sample_468
+4254,8,147628212,CX,CA1,"CA1 field, left",127004958,124,132,107,-33,-16,-23,donor15496,donor15496_sample_469
+4367,7,147628327,CX,COMA,"cortico-medial group, left",121120920,110,124,92,-19,-1,-15,donor15496,donor15496_sample_470
+4258,8,160091979,CX,DG,"dentate gyrus, left",145964255,120,129,107,-29,-16,-20,donor15697,donor15697_sample_20
+4257,8,160091963,CX,CA4,"CA4 field, left",145964256,120,128,107,-29,-16,-19,donor15697,donor15697_sample_21
+4255,8,160091931,CX,CA2,"CA2 field, left",145964254,124,125,107,-33,-16,-16,donor15697,donor15697_sample_22
+4596,6,160091486,CX,LHA,"lateral hypothalamic area, anterior region, left",158440291,100,115,86,-9,5,-6,donor15697,donor15697_sample_36
+4301,6,160091500,CX,SptN,"septal nuclei, left",158438715,98,95,86,-7,5,14,donor15697,donor15697_sample_37
+4518,7,160091618,CX,Sb,"subthalamic nucleus, left",158449679,99,117,94,-8,-3,-8,donor15697,donor15697_sample_38
+4507,7,160091570,CX,ZI,"zona incerta, left",146480724,100,112,94,-9,-3,-3,donor15697,donor15697_sample_39
+4672,7,160091584,CX,MM,"medial mammillary nucleus, left",158439716,93,124,94,-2,-3,-15,donor15697,donor15697_sample_40
+4440,9,160091897,CX,LGd,"dorsal lateral geniculate nucleus, left",157974498,118,118,117,-27,-26,-9,donor15697,donor15697_sample_41
+4444,9,160091833,CX,MG,"medial geniculate complex, left",156901563,105,113,117,-14,-26,-4,donor15697,donor15697_sample_42
+4440,9,160092007,CX,LGd,"dorsal lateral geniculate nucleus, left",156688954,117,118,117,-26,-26,-9,donor15697,donor15697_sample_43
+4409,9,160091959,CX,DTLd,"lateral group of nuclei, left, dorsal division",156890323,109,100,117,-18,-26,9,donor15697,donor15697_sample_44
+4258,9,160091911,CX,DG,"dentate gyrus, left",148020449,121,122,117,-30,-26,-13,donor15697,donor15697_sample_45
+4251,7,159438961,CX,S,"subiculum, left",147944867,108,139,94,-17,-3,-30,donor15697,donor15697_sample_46
+4440,8,160091901,CX,LGd,"dorsal lateral geniculate nucleus, left",147711165,116,119,107,-25,-16,-10,donor15697,donor15697_sample_73
+9074,8,160091869,CX,SNC,"substantia nigra, pars compacta, left",147064714,106,120,107,-15,-16,-11,donor15697,donor15697_sample_74
+4254,8,160091915,CX,CA1,"CA1 field, left",147066198,123,131,107,-32,-16,-22,donor15697,donor15697_sample_75
+4648,6,160091566,CX,PeF,"perifornical nucleus, left",158405196,99,118,85,-8,6,-9,donor15697,donor15697_sample_76
+4637,6,160091502,CX,VMH,"ventromedial hypothalamic nucleus, left",158405193,97,118,85,-6,6,-9,donor15697,donor15697_sample_77
+4311,6,160091644,CX,DBh,"nucleus of the diagonal band, left, vertical division",158440955,108,121,86,-17,5,-12,donor15697,donor15697_sample_78
+4310,6,160091596,CX,DBv,"nucleus of the diagonal band, left, horizontal division",158454222,105,116,86,-14,5,-7,donor15697,donor15697_sample_79
+4367,6,160091662,CX,COMA,"cortico-medial group, left",157580518,112,128,86,-21,5,-19,donor15697,donor15697_sample_80
+4351,6,160091646,CX,BMA,"basomedial nucleus, left",157073473,111,133,86,-20,5,-24,donor15697,donor15697_sample_81
+4379,6,160091614,CX,LA,"lateral nucleus, left",147013783,112,139,85,-21,6,-30,donor15697,donor15697_sample_82
+4308,6,160091598,CX,nbM,"basal nucleus of meynert, left",158032961,116,123,86,-25,5,-14,donor15697,donor15697_sample_83
+9074,7,160091634,CX,SNC,"substantia nigra, pars compacta, left",146480718,97,124,94,-6,-3,-15,donor15697,donor15697_sample_84
+9075,7,160091586,CX,SNR,"substantia nigra, pars reticulata, left",157673938,99,122,94,-8,-3,-13,donor15697,donor15697_sample_85
+4597,7,160091538,CX,PalHy,"pallidohypothalamic nucleus, left",158439713,97,118,94,-6,-3,-9,donor15697,donor15697_sample_86
+4679,7,160091616,CX,PHA,"posterior hypothalamic area, left",158453293,95,116,94,-4,-3,-7,donor15697,donor15697_sample_87
+4675,7,160091600,CX,LM,"lateral mammillary nucleus, left",158439714,94,124,94,-3,-3,-15,donor15697,donor15697_sample_88
+4308,7,160091488,CX,nbM,"basal nucleus of meynert, left",149051712,114,116,94,-23,-3,-7,donor15697,donor15697_sample_89
+10145,5,159439107,CX,OlfT,"olfactory tubercle, left",158041236,104,127,72,-13,19,-18,donor15697,donor15697_sample_90
+9004,9,160091881,CX,CGMB,"central gray substance of midbrain, left",156982326,97,102,117,-6,-26,7,donor15697,donor15697_sample_91
+4255,9,160091863,CX,CA2,"CA2 field, left",148020447,129,121,117,-38,-26,-12,donor15697,donor15697_sample_92
+4254,9,160091847,CX,CA1,"CA1 field, left",148020448,126,126,117,-35,-26,-17,donor15697,donor15697_sample_93
+4281,10,160091867,CX,TCd,"tail of caudate nucleus, left",157070569,115,109,133,-24,-42,0,donor15697,donor15697_sample_94
+4258,10,160091851,CX,DG,"dentate gyrus, left",157086720,106,106,133,-15,-42,3,donor15697,donor15697_sample_95
+4256,10,160092009,CX,CA3,"CA3 field, left",157086569,109,107,133,-18,-42,2,donor15697,donor15697_sample_96
+4351,7,159439055,CX,BMA,"basomedial nucleus, left",147057075,111,124,94,-20,-3,-15,donor15697,donor15697_sample_97
+4322,7,159439023,CX,Cl,"claustrum, left",156634165,127,122,94,-36,-3,-13,donor15697,donor15697_sample_98
+4296,7,159226093,CX,GPi,"globus pallidus, internal segment, left",158449669,111,108,94,-20,-3,1,donor15697,donor15697_sample_99
+4295,7,159226077,CX,GPe,"globus pallidus, external segment, left",158449668,115,103,94,-24,-3,6,donor15697,donor15697_sample_100
+4288,7,159226061,CX,Pu,"putamen, left",158449667,121,99,94,-30,-3,10,donor15697,donor15697_sample_101
+4282,7,159226045,CX,BCd,"body of caudate nucleus, left",158449670,107,89,94,-16,-3,20,donor15697,donor15697_sample_102
+4296,6,159226139,CX,GPi,"globus pallidus, internal segment, left",158405367,107,111,86,-16,5,-2,donor15697,donor15697_sample_112
+4288,6,159226107,CX,Pu,"putamen, left",158405291,116,104,86,-25,5,5,donor15697,donor15697_sample_113
+4282,6,159226091,CX,BCd,"body of caudate nucleus, left",158405365,104,92,86,-13,5,17,donor15697,donor15697_sample_114
+4291,5,159226059,CX,Acb,"nucleus accumbens, left",156756810,104,118,72,-13,19,-9,donor15697,donor15697_sample_115
+4288,5,159226043,CX,Pu,"putamen, left",156756808,112,109,72,-21,19,0,donor15697,donor15697_sample_116
+4280,5,159225898,CX,HCd,"head of caudate nucleus, left",156756809,103,104,72,-12,19,5,donor15697,donor15697_sample_117
+9222,9,159226181,CX,cc,corpus callosum,156950588,97,84,117,-6,-26,25,donor15697,donor15697_sample_143
+9222,7,159226101,CX,cc,corpus callosum,157914702,103,80,94,-12,-3,29,donor15697,donor15697_sample_147
+4280,5,157772860,CX,HCd,"head of caudate nucleus, left",156757264,108,93,72,-17,19,16,donor15697,donor15697_sample_243
+9222,4,157772954,CX,cc,corpus callosum,155842529,102,92,65,-11,26,17,donor15697,donor15697_sample_329
+4280,4,157772938,CX,HCd,"head of caudate nucleus, left",156757326,108,101,65,-17,26,8,donor15697,donor15697_sample_330
+4280,4,157773018,CX,HCd,"head of caudate nucleus, left",156757331,108,106,65,-17,26,3,donor15697,donor15697_sample_331
+4295,6,159226123,CX,GPe,"globus pallidus, external segment, left",158405366,110,107,86,-19,5,2,donor15697,donor15697_sample_350
+13008,6,160091518,CX,LHT,"lateral hypothalamic area, tuberal region, left",158405289,102,115,86,-11,5,-6,donor15697,donor15697_sample_357
+4573,6,160091612,CX,PVH,"paraventricular nucleus of the hypothalamus, left",158405195,95,108,86,-4,5,1,donor15697,donor15697_sample_358
+4395,7,160091664,CX,DTA,"anterior group of nuclei, left",146480691,98,97,94,-7,-3,12,donor15697,donor15697_sample_359
+4648,7,160091536,CX,PeF,"perifornical nucleus, left",158444318,96,120,94,-5,-3,-11,donor15697,donor15697_sample_360
+4295,8,159439025,CX,GPe,"globus pallidus, external segment, left",147808390,119,110,107,-28,-16,-1,donor15697,donor15697_sample_361
+4417,9,160091975,CX,DTLv,"lateral group of nuclei, left, ventral division",156903026,112,102,117,-21,-26,7,donor15697,donor15697_sample_362
+9708,8,160091917,CX,CPLV,choroid plexus of the lateral ventricle,159215934,111,125,107,-20,-16,-16,donor15697,donor15697_sample_438
+4288,8,160092011,CX,Pu,"putamen, left",147066327,122,112,107,-31,-16,-3,donor15697,donor15697_sample_439
+4281,8,160091995,CX,TCd,"tail of caudate nucleus, left",158747208,126,123,107,-35,-16,-14,donor15697,donor15697_sample_440
+4256,8,160091947,CX,CA3,"CA3 field, left",147066199,121,126,107,-30,-16,-17,donor15697,donor15697_sample_441
+4251,8,160091899,CX,S,"subiculum, left",147066197,113,132,107,-22,-16,-23,donor15697,donor15697_sample_442
+4644,6,160091550,CX,ARH,"arcuate nucleus of the hypothalamus, left",158729674,99,122,85,-8,6,-13,donor15697,donor15697_sample_443
+4641,6,160091534,CX,DMH,"dorsomedial hypothalamic nucleus, left",158405194,96,114,85,-5,6,-5,donor15697,donor15697_sample_444
+4308,6,160091660,CX,nbM,"basal nucleus of meynert, left",158405284,111,123,86,-20,5,-14,donor15697,donor15697_sample_445
+4593,6,160091628,CX,SO,"supraoptic nucleus, left",158405192,105,123,86,-14,5,-14,donor15697,donor15697_sample_446
+10145,6,160091580,CX,OlfT,"olfactory tubercle, left",158438882,113,122,86,-22,5,-13,donor15697,donor15697_sample_447
+4542,6,160091564,CX,PrOR,"preoptic region, left",158728506,98,110,86,-7,5,-1,donor15697,donor15697_sample_448
+4313,6,160091532,CX,BST,"bed  nucleus of stria terminalis, left",158729675,98,100,86,-7,5,9,donor15697,donor15697_sample_449
+4310,6,160091516,CX,DBv,"nucleus of the diagonal band, left, horizontal division",158405536,104,116,86,-13,5,-7,donor15697,donor15697_sample_450
+4291,6,160091484,CX,Acb,"nucleus accumbens, left",158403258,106,116,86,-15,5,-7,donor15697,donor15697_sample_451
+4342,6,160091630,CX,BLA,"basolateral nucleus, left",147013810,109,136,86,-18,5,-27,donor15697,donor15697_sample_452
+4518,7,160091602,CX,Sb,"subthalamic nucleus, left",146480717,98,117,94,-7,-3,-8,donor15697,donor15697_sample_453
+4432,7,160091554,CX,ILr,"rostral group of intralaminar nuclei, left",146480694,97,106,94,-6,-3,3,donor15697,donor15697_sample_454
+4417,7,160091522,CX,DTLv,"lateral group of nuclei, left, ventral division",146480693,101,102,94,-10,-3,7,donor15697,donor15697_sample_455
+4400,7,160091506,CX,DTM,"medial group of nuclei, left",146480692,96,105,94,-5,-3,4,donor15697,donor15697_sample_456
+4395,7,160091490,CX,DTA,"anterior group of nuclei, left",158449684,97,97,94,-6,-3,12,donor15697,donor15697_sample_457
+13005,7,160091648,CX,LHM,"lateral hypothalamic area, mammillary region, left",158453292,95,121,94,-4,-3,-12,donor15697,donor15697_sample_458
+10151,7,160091632,CX,LTu,"lateral tuberal nucleus, left",158440754,97,121,94,-6,-3,-12,donor15697,donor15697_sample_459
+4669,7,160091568,CX,SuM,"supramammillary nucleus, left",158444265,94,119,94,-3,-3,-10,donor15697,donor15697_sample_460
+4667,7,160091552,CX,TM,"tuberomammillary nucleus, left",158439715,96,121,94,-5,-3,-12,donor15697,donor15697_sample_461
+4322,7,160091504,CX,Cl,"claustrum, left",146842673,127,106,94,-36,-3,3,donor15697,donor15697_sample_462
+4301,5,159439123,CX,SptN,"septal nuclei, left",158740891,96,110,72,-5,19,-1,donor15697,donor15697_sample_463
+9031,8,159439059,CX,3,"oculomotor nuclear complex, left",157825947,93,118,107,-2,-16,-9,donor15697,donor15697_sample_465
+4409,8,159439027,CX,DTLd,"lateral group of nuclei, left, dorsal division",157087442,108,92,107,-17,-16,17,donor15697,donor15697_sample_466
+4437,8,159439011,CX,ILc,"caudal group of intralaminar nuclei, left",157082432,101,105,107,-10,-16,4,donor15697,donor15697_sample_467
+9054,8,159438995,CX,RN,"red nucleus, left",158168906,97,119,107,-6,-16,-10,donor15697,donor15697_sample_468
+4518,8,159438963,CX,Sb,"subthalamic nucleus, left",147274346,109,115,107,-18,-16,-6,donor15697,donor15697_sample_469
+4506,8,159439121,CX,R,"reticular nucleus of thalamus, left",156505627,112,97,107,-21,-16,12,donor15697,donor15697_sample_470
+4432,8,159439105,CX,ILr,"rostral group of intralaminar nuclei, left",157087433,106,93,107,-15,-16,16,donor15697,donor15697_sample_471
+4417,8,159439089,CX,DTLv,"lateral group of nuclei, left, ventral division",157087441,108,103,107,-17,-16,6,donor15697,donor15697_sample_472
+4400,8,159439073,CX,DTM,"medial group of nuclei, left",157087434,99,98,107,-8,-16,11,donor15697,donor15697_sample_473
+4395,8,159439057,CX,DTA,"anterior group of nuclei, left",157083123,104,89,107,-13,-16,20,donor15697,donor15697_sample_474
+4288,8,159439009,CX,Pu,"putamen, left",156505629,119,102,107,-28,-16,7,donor15697,donor15697_sample_475
+4282,8,159438993,CX,BCd,"body of caudate nucleus, left",156505628,111,86,107,-20,-16,23,donor15697,donor15697_sample_476
+9115,9,160091945,CX,SC,"superior colliculus, left",156988290,99,104,117,-8,-26,5,donor15697,donor15697_sample_477
+4444,9,160091913,CX,MG,"medial geniculate complex, left",157973933,104,113,117,-13,-26,-4,donor15697,donor15697_sample_478
+4524,9,160091865,CX,Hl,"lateral habenular nucleus, left",157921044,100,95,117,-9,-26,14,donor15697,donor15697_sample_479
+4428,9,160091991,CX,DTP,"posterior group of nuclei, left",156936435,104,103,117,-13,-26,6,donor15697,donor15697_sample_480
+4282,9,160091943,CX,BCd,"body of caudate nucleus, left",157923735,115,93,117,-24,-26,16,donor15697,donor15697_sample_481
+4281,9,160091927,CX,TCd,"tail of caudate nucleus, left",157923259,128,114,117,-37,-26,-5,donor15697,donor15697_sample_482
+4257,9,160091895,CX,CA4,"CA4 field, left",148020445,121,121,117,-30,-26,-12,donor15697,donor15697_sample_483
+4256,9,160091879,CX,CA3,"CA3 field, left",148020446,124,120,117,-33,-26,-11,donor15697,donor15697_sample_484
+4251,9,160091831,CX,S,"subiculum, left",148020506,112,121,117,-21,-26,-12,donor15697,donor15697_sample_485
+9115,10,160091883,CX,SC,"superior colliculus, left",156988516,107,117,133,-16,-42,-8,donor15697,donor15697_sample_486
+4257,10,160091835,CX,CA4,"CA4 field, left",157086721,106,107,133,-15,-42,2,donor15697,donor15697_sample_487
+4255,10,160091993,CX,CA2,"CA2 field, left",157086950,111,107,133,-20,-42,2,donor15697,donor15697_sample_488
+4254,10,160091977,CX,CA1,"CA1 field, left",157086949,103,106,133,-12,-42,3,donor15697,donor15697_sample_489
+4251,10,160091961,CX,S,"subiculum, left",157086681,102,110,133,-11,-42,-1,donor15697,donor15697_sample_490
+4254,7,159438977,CX,CA1,"CA1 field, left",156265315,115,135,94,-24,-3,-26,donor15697,donor15697_sample_491
+4329,7,159438945,CX,ATZ,"amygdalohippocampal transition zone, left",156844242,106,127,94,-15,-3,-18,donor15697,donor15697_sample_492
+4308,7,159439119,CX,nbM,"basal nucleus of meynert, left",156989056,118,119,94,-27,-3,-10,donor15697,donor15697_sample_493
+4379,7,159439103,CX,LA,"lateral nucleus, left",156835171,116,130,94,-25,-3,-21,donor15697,donor15697_sample_494
+4367,7,159439087,CX,COMA,"cortico-medial group, left",147057077,108,123,94,-17,-3,-14,donor15697,donor15697_sample_495
+4360,7,159439071,CX,CeA,"central nucleus, left",147057076,114,121,94,-23,-3,-12,donor15697,donor15697_sample_496
+4342,7,159439039,CX,BLA,"basolateral nucleus, left",147057074,112,127,94,-21,-3,-18,donor15697,donor15697_sample_497

@@ -4,13 +4,13 @@
 ## Institution: Leiden Medical Center Utrecht ## Script: select only cortical and subcortical AHBA samples and write to file #####
 ####################################################################################################################################
 
-# ontology file is the same for each donor, showing structural paths annotated with distinct numbers. 
+# ontology file is the same for each donor, showing structural paths annotated with distinct numbers: 
 
-# 4008 - cortical samples: keep
-# 4275 - subcortical samples: remove
-# 4392 - thalamus samples: remove
-# 4249 - hippocampal samples: remove
-# remove when no "left" is included
+# 4008 - cortical samples
+# 4275 - subcortical samples
+# 4392 - thalamus samples
+# 4249 - hippocampal samples
+
 
 library(tidyverse)
 

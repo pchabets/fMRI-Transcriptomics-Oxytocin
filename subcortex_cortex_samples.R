@@ -14,7 +14,7 @@
 
 library(tidyverse)
 
-setwd("/path/to/local/folder/") #set working directory to local folder containing the AHBA downloaded files. See readme file for setup of local folder with files.
+setwd("/path/to/local/folder/data") #set working directory to local folder containing the AHBA downloaded files. See readme file for setup of local folder with files.
 
 #read in ontology file (same for all donors)
 ontology <- read.csv("normalized_microarray_donor9861/Ontology.csv")

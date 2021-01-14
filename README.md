@@ -9,8 +9,8 @@
 * male_only_analysis.R - data preprocessing and differential gene expression analysis for male-only
 
 ### Files (in 'data' folder):
-* corticalSamplesOnly.csv - output from script 1)
-* SubcorticalSamplesOnly.csv - output from script 1)
+* corticalSamplesOnly.csv - output from script subcortex_cortex_samples.R 
+* SubcorticalSamplesOnly.csv - output from script subcortex_cortex_samples.R 
 * reannotation_ALL.txt - output from running ReAnnotator pipeline (done May 5th 2020)
 * reannotated_probes.csv - reformatted and selected for single probe to gene reannotations (probes with reannotation to multiple genes that are not synonyms are deleted)
 * EMOTION_OXT-PBO_P.nii - p-statistic map emotional processing (Grace et al. 2018)

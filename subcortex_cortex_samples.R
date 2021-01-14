@@ -17,7 +17,7 @@ library(tidyverse)
 setwd("/path/to/local/folder/data") #set working directory to local folder containing the AHBA downloaded files. See readme file for setup of local folder with files.
 
 #read in ontology file (same for all donors)
-ontology <- read.csv("normalized_microarray_donor9861/Ontology.csv")
+ontology <- read.csv("normalized_microarray_donor01/Ontology.csv")
 
 ##AHBA donor brain sample info
 donorNames <- c("donor01", "donor02", "donor03", "donor04", "donor05", "donor06")

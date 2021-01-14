@@ -5,8 +5,8 @@
 ### Scripts:
 * subcortex_cortex_samples.R - extract subcortical and cortical samples
 * inoxt_fmri_gene_expression.R - data preprocessing and differential gene expression analysis
-* inoxt_frmi_gene_correlations - data preprocessing and (differential) correlation analysis
-* male_only_analysis - data preprocessing and differential gene expression analysis for male-only
+* inoxt_frmi_gene_correlations.R - data preprocessing and (differential) correlation analysis
+* male_only_analysis.R - data preprocessing and differential gene expression analysis for male-only
 
 ### Files (in 'data' folder):
 * corticalSamplesOnly.csv - output from script 1)
